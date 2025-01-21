@@ -1,0 +1,229 @@
+
+#General Settings
+[general_settings]
+	#Increase difficulty by making plasmids no longer accept basic genes.
+	#Default: false
+	hardMode = false
+	#Allows players to take the blood of other players and get all of their genes from it.
+	#Default: false
+	geneSharing = false
+	#Percent chance to receive a basic gene upon DNA decryption.
+	#Default: 50% chance
+	#Range: 0.0 ~ 1.0
+	basicGeneChance = 0.5
+	#The number of decrypted DNA helices needed to fill a plasmid.
+	#Default: 24 DNA helices
+	#Range: 2 ~ 100
+	plasmidRequirement = 24
+	#The number of seconds that an overclock item speeds up a machine.
+	#Default: 2 seconds faster
+	#Range: > 0
+	overclockSpeed = 2
+	#The amount of extra energy per tick that an overclock item uses.
+	#Default: 5 E/t
+	#Range: > 0
+	overclockEnergy = 5
+
+#Genes
+#Set any gene to 'false' to disable it
+[genes]
+	beelicious = true
+	climb_walls = true
+	dragons_breath = true
+	dragons_health = true
+	eat_grass = true
+	emerald_heart = true
+	explosive_exit = true
+	fireproof = true
+	flight = true
+	haste = true
+	infinity = true
+	invisibility = true
+	jump_boost = true
+	keep_inventory = true
+	lay_egg = true
+	luck = true
+	meaty = true
+	milky = true
+	mob_sight = true
+	night_vision = true
+	no_fall_damage = true
+	no_hunger = true
+	poison_immunity = true
+	regeneration = true
+	resistance = true
+	scare_creepers = true
+	scare_skeletons = true
+	shoot_fireballs = true
+	slimy = true
+	speed = true
+	strength = true
+	teleport = true
+	venom = true
+	water_breathing = true
+	web_walking = true
+	wither_resistance = true
+	wither_hit = true
+	wooly = true
+
+#Cell Analyzer
+[cell_analyzer]
+	#Maximum energy capacity for the Cell Analyzer.
+	#Default: 20,000 (20k E)
+	#Range: > 0
+	energyCapacity = 20000
+	#Energy consumed per tick when the Cell Analyzer is processing.
+	#Default: 20 E
+	#Range: > 0
+	energyPerTick = 20
+	#Ticks per operation when using the Cell Analyzer.
+	#Default: 400 ticks
+	#Range: > 20
+	ticksPerOperation = 400
+	#The max amount of overclock items that can be used on the Cell Analyzer.
+	#Default: 10x overclock
+	#Range: > 0
+	maxOverclock = 10
+	#Percent chance for the Cell Analyzer to successfully create a cell.
+	#Default: 100% success rate
+	#Range: 0.0 ~ 1.0
+	successRate = 1.0
+
+#DNA Extractor
+[dna_extractor]
+	#Maximum energy capacity for the DNA Extractor.
+	#Default: 20,000 (20k E)
+	#Range: > 0
+	energyCapacity = 20000
+	#Energy consumed per tick when the DNA Extractor is processing.
+	#Default: 20 E
+	#Range: > 0
+	energyPerTick = 20
+	#Ticks per operation when using the DNA Extractor.
+	#Default: 200 ticks
+	#Range: > 20
+	ticksPerOperation = 200
+	#The max amount of overclock items that can be used on the DNA Extractor.
+	#Default: 5x overclock
+	#Range: > 0
+	maxOverclock = 5
+	#Percent chance for the DNA Extractor to successfully extract a DNA helix.
+	#Default: 100% success rate
+	#Range: 0.0 ~ 1.0
+	successRate = 1.0
+
+#DNA Decrypter
+[dna_decrypter]
+	#Maximum energy capacity for the DNA Decrypter.
+	#Default: 20,000 (20k E)
+	#Range: > 0
+	energyCapacity = 20000
+	#Energy consumed per tick when the DNA Decrypter is processing.
+	#Default: 20 E
+	#Range: > 0
+	energyPerTick = 20
+	#Ticks per operation when using the DNA Decrypter.
+	#Default: 200 ticks
+	#Range: > 20
+	ticksPerOperation = 200
+	#The max amount of overclock items that can be used on the DNA Decrypter.
+	#Default: 5x overclock
+	#Range: > 0
+	maxOverclock = 5
+	#Percent chance for the DNA Decrypter to successfully decode a DNA helix.
+	#Default: 100% success rate
+	#Range: 0.0 ~ 1.0
+	successRate = 1.0
+
+#Plasmid Infuser
+[plasmid_infuser]
+	#Maximum energy capacity for the Plasmid Infuser.
+	#Default: 20,000 (20k E)
+	#Range: > 0
+	energyCapacity = 20000
+	#Energy consumed per tick when the Plasmid Infuser is processing.
+	#Default: 20 E
+	#Range: > 0
+	energyPerTick = 20
+	#Ticks per operation when using the Plasmid Infuser.
+	#Default: 400 ticks
+	#Range: > 20
+	ticksPerOperation = 400
+	#The max amount of overclock items that can be used on the Plasmid Infuser.
+	#Default: 10x overclock
+	#Range: > 0
+	maxOverclock = 10
+	#Percent chance for the Plasmid Infuser to successfully add DNA helix to plasmid.
+	#Default: 100% success rate
+	#Range: 0.0 ~ 1.0
+	successRate = 1.0
+
+#Blood Purifier
+[blood_purifier]
+	#Maximum energy capacity for the Blood Purifier.
+	#Default: 20,000 (20k E)
+	#Range: > 0
+	energyCapacity = 20000
+	#Energy consumed per tick when the Blood Purifier is processing.
+	#Default: 20 E
+	#Range: > 0
+	energyPerTick = 20
+	#Ticks per operation when using the Blood Purifier.
+	#Default: 200 ticks
+	#Range: > 20
+	ticksPerOperation = 200
+	#The max amount of overclock items that can be used on the Blood Purifier.
+	#Default: 5x overclock
+	#Range: > 0
+	maxOverclock = 5
+	#Percent chance for the Blood Purifier to successfully purify blood.
+	#Default: 100% success rate
+	#Range: 0.0 ~ 1.0
+	successRate = 1.0
+
+#Plasmid Injector
+[plasmid_injector]
+	#Maximum energy capacity for the Plasmid Injector.
+	#Default: 20,000 (20k E)
+	#Range: > 0
+	energyCapacity = 20000
+	#Energy consumed per tick when the Plasmid Injector is processing.
+	#Default: 20 E
+	#Range: > 0
+	energyPerTick = 20
+	#Ticks per operation when using the Plasmid Injector.
+	#Default: 400 ticks
+	#Range: > 20
+	ticksPerOperation = 400
+	#The max amount of overclock items that can be used on the Plasmid Injector.
+	#Default: 10x overclock
+	#Range: > 0
+	maxOverclock = 10
+	#Percent chance for the Plasmid Injector to successfully inject a tplasmid into the syringe.
+	#Default: 100% success rate
+	#Range: 0.0 ~ 1.0
+	successRate = 1.0
+
+#Cloning Machine
+[cloning_machine]
+	#Maximum energy capacity for the Cloning Machine.
+	#Default: 500,000 (500k E)
+	#Range: > 0
+	energyCapacity = 500000
+	#Energy consumed per tick when the Cloning Machine is processing.
+	#Default: 1000 E
+	#Range: > 0
+	energyPerTick = 1000
+	#Ticks per operation when using the Cloning Machine.
+	#Default: 600 ticks
+	#Range: > 20
+	ticksPerOperation = 600
+	#The max amount of overclock items that can be used on the Cloning Machine.
+	#Default: 5x overclock
+	#Range: > 0
+	maxOverclock = 5
+	#Percent chance for the cloning machine to successfully spawn an entity.
+	#Default: 100% success rate
+	#Range: 0.0 ~ 1.0
+	successRate = 1.0
+

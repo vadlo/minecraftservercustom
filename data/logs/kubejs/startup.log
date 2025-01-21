@@ -1,0 +1,21 @@
+[16:57:54] [INIT] KubeJS 1902.6.2-build.63; MC 1902 fabric
+[16:57:54] [INIT] Loaded plugins:
+[16:57:54] [INIT] - dev.latvian.mods.kubejs.fabric.BuiltinKubeJSFabricPlugin
+[16:57:54] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[16:57:54] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[16:57:54] [INIT] - net.impleri.itemskills.integrations.kubejs.ItemSkillsPlugin
+[16:57:54] [INIT] - dev.thestaticvoid.mi_sound_addon.compat.kubejs.MISoundAddonKubeJSPlugin
+[16:57:54] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[16:57:54] [INIT] - pie.ilikepiefoo.AdditionsPlugin
+[16:57:54] [INIT] - pie.ilikepiefoo.fabric.FabricPlugin
+[16:57:54] [INIT] - net.impleri.playerskills.integration.kubejs.PlayerSkillsPlugin
+[16:57:54] [INIT] - net.impleri.blockskills.integrations.kubejs.BlockSkillsPlugin
+[16:57:54] [INIT] - com.prunoideae.KubeJSBotaniaPlugin
+[16:57:54] [INIT] - net.impleri.fluidskills.integrations.kubejs.FluidSkillsPlugin
+[16:57:54] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[16:57:54] [INIT] - fr.frinn.custommachinery.common.integration.kubejs.CustomMachineryKubeJSPlugin
+[16:57:54] [INIT] - com.almostreliable.ponderjs.PonderJSPlugin
+[16:57:54] [INIT] - aztech.modern_industrialization.compat.kubejs.MIKubeJSPlugin
+[16:57:54] [INFO] example.js#5: Hello, World! (Loaded startup scripts)
+[16:57:54] [INFO] Loaded script startup_scripts:example.js in 0.037 s
+[16:57:54] [INFO] Loaded 1/1 KubeJS startup scripts in 0.224 s

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "000"
+  ],
+  "key": {
+    "0": {
+      "item": "spectrum:magenta_slab"
+    }
+  },
+  "result": {
+    "item": "suppsquared:spectrum/item_shelf_magenta",
+    "count": 2
+  }
+}

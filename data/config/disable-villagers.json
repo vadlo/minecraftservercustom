@@ -1,0 +1,24 @@
+{
+  "killVillagers": false,
+  "disableWanderingTrader": false,
+  "blockTrading": true,
+  "spareExperiencedVillagers": true,
+  "breeding": false,
+  "disableVillages": false,
+  "disableZombies": false,
+  "curableZombies": true,
+  "curedZombieLoot": {
+	"pools": [
+	  {
+		"rolls": 1,
+		"entries": [
+		  {
+			"type": "minecraft:item",
+			"name": "minecraft:emerald_block"
+		  }
+		]
+	  }
+	]
+  },
+  "allowedProfessions": ["myskatonicmysteries:psychonaut"]
+}

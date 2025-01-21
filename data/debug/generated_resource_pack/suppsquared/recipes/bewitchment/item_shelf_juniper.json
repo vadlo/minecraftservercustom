@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "000"
+  ],
+  "key": {
+    "0": {
+      "item": "bewitchment:juniper_slab"
+    }
+  },
+  "result": {
+    "item": "suppsquared:bewitchment/item_shelf_juniper",
+    "count": 2
+  }
+}

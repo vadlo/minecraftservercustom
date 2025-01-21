@@ -1,0 +1,32 @@
+{
+  //Rarity of how much the Overgrown can spawn (0 to disable)  | default: 130
+  "overgrownweight": 130,
+  //Minimal amount of Overgrown that can spawn.  | default: 1
+  "overgrownminspawn": 1,
+  //Maximal amount of Overgrown that can spawn.  | default: 2
+  "overgrownmaxspawn": 2,
+  //Rarity of how much the Sharpshooter can spawn (0 to disable)  | default: 150
+  "sharpshooterweight": 150,
+  //Minimal amount of Sharpshooter that can spawn.  | default: 1
+  "sharpshooterminspawn": 1,
+  //Maximal amount of Sharpshooter that can spawn.  | default: 2
+  "sharpshootermaxspawn": 2,
+  //Rarity of how much the Charred can spawn (0 to disable)  | default: 120
+  "charredweight": 120,
+  //Minimal amount of Charred that can spawn.  | default: 1
+  "charredminspawn": 1,
+  //Maximal amount of Charred that can spawn.  | default: 2
+  "charredmaxspawn": 2,
+  //Rarity of how much the Sunken can spawn (0 to disable)  | default: 180
+  "sunkenweight": 180,
+  //Minimal amount of Sunken that can spawn.  | default: 1
+  "sunkenminspawn": 1,
+  //Maximal amount of Sunken that can spawn.  | default: 3
+  "sunkenmaxspawn": 3,
+  //Rarity of how much the Swamped can spawn (0 to disable)  | default: 100
+  "swampedweight": 100,
+  //Minimal amount of Swamped that can spawn.  | default: 1
+  "swampedminspawn": 1,
+  //Maximal amount of Swamped that can spawn.  | default: 3
+  "swampedmaxspawn": 3
+}

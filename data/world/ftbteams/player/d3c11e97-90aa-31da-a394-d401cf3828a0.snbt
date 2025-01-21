@@ -1,0 +1,17 @@
+{
+	id: "d3c11e97-90aa-31da-a394-d401cf3828a0"
+	type: "player"
+	player_name: "vadl0"
+	ranks: {
+		d3c11e97-90aa-31da-a394-d401cf3828a0: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "vadl0"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5960FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

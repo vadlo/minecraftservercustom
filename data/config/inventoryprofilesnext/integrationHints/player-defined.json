@@ -1,0 +1,10 @@
+{
+    "net.minecraft.class_490": {
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": -12,
+                "bottom": 12
+            }
+        }
+    }
+}

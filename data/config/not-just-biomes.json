@@ -1,0 +1,10 @@
+{
+  "enabled_modules": {
+    "forest": true,
+    "taiga": true,
+    "birch_forest": true,
+    "swamp": true,
+    "dungeon": true,
+    "mansion": true
+  }
+}

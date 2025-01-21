@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "000"
+  ],
+  "key": {
+    "0": {
+      "item": "dimdoors:driftwood_slab"
+    }
+  },
+  "result": {
+    "item": "suppsquared:dimdoors/item_shelf_driftwood",
+    "count": 2
+  }
+}

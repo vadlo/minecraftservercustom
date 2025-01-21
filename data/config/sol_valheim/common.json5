@@ -1,0 +1,2232 @@
+{
+	// Default time in seconds that food should last per saturation level
+	"defaultTimer": 180,
+	// Speed at which regeneration should occur
+	"regenSpeedModifier": 1.0,
+	// Time in ticks that regeneration should wait after taking damage
+	"regenDelay": 200,
+	// Time in seconds after spawning before sprinting is disabled
+	"respawnGracePeriod": 0,
+	// Extra speed given when your hearts are full (0 to disable)
+	"speedBoost": 0.20000000298023224,
+	// Number of hearts to start with
+	"startingHealth": 3,
+	// Number of food slots (range 2-5, default 3)
+	"maxSlots": 3,
+	// Percentage remaining before you can eat again
+	"eatAgainPercentage": 0.20000000298023224,
+	// Boost given to other foods when drinking
+	"drinkSlotFoodEffectivenessBonus": 0.10000000149011612,
+	// Simulate food ticking down during night
+	"passTicksDuringNight": true,
+	/*     Food nutrition and effect overrides (Auto Generated if Empty)
+	       - nutrition: Affects Heart Gain & Health Regen
+	       - saturationModifier: Affects Food Duration & Player Speed
+	       - healthRegenModifier: Multiplies health regen speed
+	       - extraEffects: Extra effects provided by eating the food. Format: { String ID, float duration, int amplifier }
+	*/
+	"foodConfigs": {
+		"farmersdelight:melon_juice": {
+			"nutrition": 2,
+			"saturationModifier": 0.550000011920929,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"minecraft:spider_eye": {
+			"nutrition": 2,
+			"saturationModifier": 0.800000011920929,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"rootsclassic:rooty_stew": {
+			"nutrition": 7,
+			"saturationModifier": 1.0,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"minecraft:apple": {
+			"nutrition": 4,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"artifacts:eternal_steak": {
+			"nutrition": 8,
+			"saturationModifier": 0.800000011920929,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersdelight:roast_chicken": {
+			"nutrition": 17,
+			"saturationModifier": 0.8250000476837158,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"nethersdelight:ground_strider": {
+			"nutrition": 2,
+			"saturationModifier": 0.75,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"betteranimalsplus:eel_meat_cooked": {
+			"nutrition": 4,
+			"saturationModifier": 0.699999988079071,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"betternether:hook_mushroom_cooked": {
+			"nutrition": 4,
+			"saturationModifier": 0.4000000059604645,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"delightfulcreators:incomplete_bacon_sandwich": {
+			"nutrition": 3,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"betteranimalsplus:pheasantcooked": {
+			"nutrition": 7,
+			"saturationModifier": 1.2000000476837158,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersdelight:melon_popsicle": {
+			"nutrition": 3,
+			"saturationModifier": 0.2200000137090683,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"farmersdelight:chicken_cuts": {
+			"nutrition": 1,
+			"saturationModifier": 0.33000001311302185,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"farmersrespite:purulent_tea": {
+			"nutrition": 2,
+			"saturationModifier": 0.550000011920929,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"farmersrespite:strong_apple_cider": {
+			"nutrition": 2,
+			"saturationModifier": 0.550000011920929,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"farmersrespite:green_tea": {
+			"nutrition": 2,
+			"saturationModifier": 0.550000011920929,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"nethersdelight:nether_skewer": {
+			"nutrition": 7,
+			"saturationModifier": 0.5,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"minecraft:melon_slice": {
+			"nutrition": 2,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"byg:cooked_white_puffball_cap": {
+			"nutrition": 3,
+			"saturationModifier": 0.6000000238418579,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersdelight:wheat_dough": {
+			"nutrition": 2,
+			"saturationModifier": 0.33000001311302185,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"farmersdelight:chicken_soup": {
+			"nutrition": 17,
+			"saturationModifier": 0.8250000476837158,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"minecraft:cod": {
+			"nutrition": 2,
+			"saturationModifier": 0.10000000149011612,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersdelight:noodle_soup": {
+			"nutrition": 17,
+			"saturationModifier": 0.8250000476837158,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"heartytrinkets:orange_heart": {
+			"nutrition": 0,
+			"saturationModifier": 0.0,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersdelight:pumpkin_soup": {
+			"nutrition": 17,
+			"saturationModifier": 0.8250000476837158,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"farmersdelight:minced_beef": {
+			"nutrition": 2,
+			"saturationModifier": 0.33000001311302185,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"nethersdelight:grilled_strider": {
+			"nutrition": 10,
+			"saturationModifier": 0.8999999761581421,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"betternether:herbal_medicine": {
+			"nutrition": 0,
+			"saturationModifier": 0.0,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"nethersdelight:propelpearl": {
+			"nutrition": 2,
+			"saturationModifier": 0.5,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersdelight:sweet_berry_cheesecake_slice": {
+			"nutrition": 3,
+			"saturationModifier": 0.33000001311302185,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"farmersrespite:long_apple_cider": {
+			"nutrition": 2,
+			"saturationModifier": 0.550000011920929,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"minecraft:sweet_berries": {
+			"nutrition": 2,
+			"saturationModifier": 0.10000000149011612,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"aylyth:ghostcap_mushroom": {
+			"nutrition": 1,
+			"saturationModifier": 0.75,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"byg:aloe_vera_juice": {
+			"nutrition": 2,
+			"saturationModifier": 0.5,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"biomemakeover:roasted_bulbus_root": {
+			"nutrition": 5,
+			"saturationModifier": 0.800000011920929,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"rootsclassic:elderberry": {
+			"nutrition": 2,
+			"saturationModifier": 0.10000000149011612,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"botania:mana_bottle": {
+			"nutrition": 2,
+			"saturationModifier": 0.5,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersrespite:rose_hip_pie_slice": {
+			"nutrition": 3,
+			"saturationModifier": 0.33000001311302185,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"ecologics:cooked_prickly_pear": {
+			"nutrition": 4,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"byg:blueberry_pie": {
+			"nutrition": 6,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"betterend:end_fish_cooked": {
+			"nutrition": 6,
+			"saturationModifier": 0.800000011920929,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"nethersdelight:hoglin_sirloin": {
+			"nutrition": 3,
+			"saturationModifier": 0.25,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"betteranimalsplus:calamari_cooked": {
+			"nutrition": 7,
+			"saturationModifier": 0.6499999761581421,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"delightfulcreators:incomplete_sweet_berry_cheesecake": {
+			"nutrition": 3,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersrespite:green_tea_cookie": {
+			"nutrition": 2,
+			"saturationModifier": 0.11000000685453415,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"minecraft:enchanted_golden_apple": {
+			"nutrition": 10,
+			"saturationModifier": 1.2000000476837158,
+			"healthRegenModifier": 1.5,
+			"extraEffects": []
+		},
+		"farmersdelight:cooked_salmon_slice": {
+			"nutrition": 3,
+			"saturationModifier": 0.8800000548362732,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"avaritia:cosmic_meatballs": {
+			"nutrition": 20,
+			"saturationModifier": 2.0,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersdelight:fried_egg": {
+			"nutrition": 5,
+			"saturationModifier": 0.4400000274181366,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"minecells:health_flask": {
+			"nutrition": 2,
+			"saturationModifier": 0.5,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"byg:nightshade_berry_pie": {
+			"nutrition": 6,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersrespite:strong_coffee": {
+			"nutrition": 2,
+			"saturationModifier": 0.550000011920929,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"aylyth:wrongmeat": {
+			"nutrition": 16,
+			"saturationModifier": 16.0,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"byg:crimson_berry_pie": {
+			"nutrition": 6,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersdelight:honey_cookie": {
+			"nutrition": 2,
+			"saturationModifier": 0.11000000685453415,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"byg:cooked_joshua_fruit": {
+			"nutrition": 5,
+			"saturationModifier": 0.4000000059604645,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"miskatonicmysteries:the_orb": {
+			"nutrition": 0,
+			"saturationModifier": 0.0,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"avaritia:ultimate_stew": {
+			"nutrition": 20,
+			"saturationModifier": 2.0,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"betterend:shadow_berry_raw": {
+			"nutrition": 4,
+			"saturationModifier": 0.5,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersrespite:long_black_tea": {
+			"nutrition": 2,
+			"saturationModifier": 0.550000011920929,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"rootsclassic:healing_poultice": {
+			"nutrition": 0,
+			"saturationModifier": 0.0,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"bewitchment:garlic": {
+			"nutrition": 1,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"minecraft:rotten_flesh": {
+			"nutrition": 4,
+			"saturationModifier": 0.10000000149011612,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"nethersdelight:hoglin_ear": {
+			"nutrition": 2,
+			"saturationModifier": 0.5,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"byg:white_puffball_cap": {
+			"nutrition": 1,
+			"saturationModifier": 0.20000000298023224,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"biomemakeover:glowfish": {
+			"nutrition": 1,
+			"saturationModifier": 0.10000000149011612,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"orpheus:cooked_cow_gut": {
+			"nutrition": 8,
+			"saturationModifier": 0.8999999761581421,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"byg:nightshade_berries": {
+			"nutrition": 3,
+			"saturationModifier": 0.4000000059604645,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"betternether:black_apple": {
+			"nutrition": 4,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"miskatonicmysteries:laudanum": {
+			"nutrition": 2,
+			"saturationModifier": 0.5,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"orpheus:brotoi_nectar": {
+			"nutrition": 2,
+			"saturationModifier": 0.5,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"create:chocolate_glazed_berries": {
+			"nutrition": 7,
+			"saturationModifier": 0.800000011920929,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"delightfulcreators:incomplete_bacon_and_eggs": {
+			"nutrition": 3,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersrespite:dandelion_tea": {
+			"nutrition": 2,
+			"saturationModifier": 0.550000011920929,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"betterend:umbrella_cluster_juice": {
+			"nutrition": 2,
+			"saturationModifier": 0.5,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"betterend:chorus_mushroom_raw": {
+			"nutrition": 3,
+			"saturationModifier": 0.5,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersdelight:bone_broth": {
+			"nutrition": 2,
+			"saturationModifier": 0.550000011920929,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"delightfulcreators:incomplete_rice_roll_medley": {
+			"nutrition": 3,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"byg:ether_bulbs": {
+			"nutrition": 0,
+			"saturationModifier": 5.0,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"delightfulcreators:incomplete_chicken_sandwich": {
+			"nutrition": 3,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersrespite:strong_purulent_tea": {
+			"nutrition": 2,
+			"saturationModifier": 0.550000011920929,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"promenade:cooked_duck": {
+			"nutrition": 6,
+			"saturationModifier": 0.6000000238418579,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"nethersdelight:magma_gelatin": {
+			"nutrition": 1,
+			"saturationModifier": 6.0,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"neepmeat:cooked_meat_brick": {
+			"nutrition": 10,
+			"saturationModifier": 0.800000011920929,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"delightfulcreators:incomplete_pasta_with_meatballs": {
+			"nutrition": 3,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"create:builders_tea": {
+			"nutrition": 2,
+			"saturationModifier": 0.5,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersdelight:cod_slice": {
+			"nutrition": 1,
+			"saturationModifier": 0.11000000685453415,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"farmersdelight:dumplings": {
+			"nutrition": 10,
+			"saturationModifier": 0.8800000548362732,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"rootsclassic:blackcurrant": {
+			"nutrition": 4,
+			"saturationModifier": 0.4000000059604645,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"paradise_lost:amadrys_noodles": {
+			"nutrition": 7,
+			"saturationModifier": 0.5,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersdelight:glow_berry_custard": {
+			"nutrition": 8,
+			"saturationModifier": 0.6600000262260437,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"ecologics:coconut_slice": {
+			"nutrition": 2,
+			"saturationModifier": 0.10000000149011612,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersdelight:egg_sandwich": {
+			"nutrition": 10,
+			"saturationModifier": 0.8800000548362732,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"crittersandcompanions:koi_fish": {
+			"nutrition": 1,
+			"saturationModifier": 0.10000000149011612,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"minecraft:poisonous_potato": {
+			"nutrition": 2,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersrespite:strong_yellow_tea": {
+			"nutrition": 2,
+			"saturationModifier": 0.550000011920929,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"farmersdelight:mushroom_rice": {
+			"nutrition": 15,
+			"saturationModifier": 0.8800000548362732,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"farmersdelight:ham": {
+			"nutrition": 6,
+			"saturationModifier": 0.33000001311302185,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"farmersdelight:cooked_mutton_chops": {
+			"nutrition": 3,
+			"saturationModifier": 0.8800000548362732,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"farmersdelight:cake_slice": {
+			"nutrition": 2,
+			"saturationModifier": 0.11000000685453415,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"farmersdelight:onion": {
+			"nutrition": 2,
+			"saturationModifier": 0.4400000274181366,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"heartytrinkets:blue_heart": {
+			"nutrition": 0,
+			"saturationModifier": 0.0,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersdelight:vegetable_soup": {
+			"nutrition": 15,
+			"saturationModifier": 0.8800000548362732,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"farmersdelight:fruit_salad": {
+			"nutrition": 7,
+			"saturationModifier": 0.6600000262260437,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"delightfulcreators:incomplete_nether_salad": {
+			"nutrition": 3,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"delightfulcreators:incomplete_apple_pie": {
+			"nutrition": 3,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"delightfulcreators:incomplete_honey_glazed_ham": {
+			"nutrition": 3,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"minecraft:golden_apple": {
+			"nutrition": 10,
+			"saturationModifier": 1.2000000476837158,
+			"healthRegenModifier": 1.5,
+			"extraEffects": []
+		},
+		"farmersrespite:coffee": {
+			"nutrition": 2,
+			"saturationModifier": 0.550000011920929,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"byg:white_puffball_stew": {
+			"nutrition": 9,
+			"saturationModifier": 1.0,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersdelight:mixed_salad": {
+			"nutrition": 7,
+			"saturationModifier": 0.6600000262260437,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"betterend:amber_root_raw": {
+			"nutrition": 2,
+			"saturationModifier": 0.800000011920929,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"delightfulcreators:incomplete_stuffed_pumpkin": {
+			"nutrition": 3,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"biomemakeover:crab_chowder": {
+			"nutrition": 5,
+			"saturationModifier": 0.6000000238418579,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"betteranimalsplus:crab_meat_raw": {
+			"nutrition": 2,
+			"saturationModifier": 1.0,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"biomemakeover:cooked_toad": {
+			"nutrition": 6,
+			"saturationModifier": 0.6000000238418579,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersdelight:beef_stew": {
+			"nutrition": 15,
+			"saturationModifier": 0.8800000548362732,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"neepmeat:meat_carton": {
+			"nutrition": 0,
+			"saturationModifier": 0.0,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersdelight:cabbage_rolls": {
+			"nutrition": 7,
+			"saturationModifier": 0.550000011920929,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"paradise_lost:moa_meat_cooked": {
+			"nutrition": 6,
+			"saturationModifier": 1.0,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"neepmeat:blood_bubble": {
+			"nutrition": 3,
+			"saturationModifier": 0.20000000298023224,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"delightfulcreators:incomplete_roasted_mutton_chops": {
+			"nutrition": 3,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersdelight:milk_bottle": {
+			"nutrition": 7,
+			"saturationModifier": 1.100000023841858,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"bewitchment:bottle_of_blood": {
+			"nutrition": 2,
+			"saturationModifier": 0.5,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersdelight:ratatouille": {
+			"nutrition": 12,
+			"saturationModifier": 0.6600000262260437,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"minecraft:mushroom_stew": {
+			"nutrition": 6,
+			"saturationModifier": 0.6000000238418579,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersrespite:long_dandelion_tea": {
+			"nutrition": 2,
+			"saturationModifier": 0.550000011920929,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"aylyth:ympe_fruit": {
+			"nutrition": 6,
+			"saturationModifier": 0.5,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"byg:green_apple": {
+			"nutrition": 4,
+			"saturationModifier": 0.3499999940395355,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"minecraft:baked_potato": {
+			"nutrition": 5,
+			"saturationModifier": 0.6000000238418579,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersdelight:beef_patty": {
+			"nutrition": 5,
+			"saturationModifier": 0.8800000548362732,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"paradise_lost:moa_meat": {
+			"nutrition": 3,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"minecraft:glow_berries": {
+			"nutrition": 2,
+			"saturationModifier": 0.10000000149011612,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"delightfulcreators:incomplete_grilled_salmon": {
+			"nutrition": 3,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"bewitchment:grotesque_stew": {
+			"nutrition": 8,
+			"saturationModifier": 0.6000000238418579,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"nethersdelight:hoglin_loin": {
+			"nutrition": 3,
+			"saturationModifier": 0.25,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"minecraft:lingering_potion": {
+			"nutrition": 4,
+			"saturationModifier": 0.75,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"minecraft:cooked_rabbit": {
+			"nutrition": 5,
+			"saturationModifier": 0.6000000238418579,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"minecraft:beetroot_soup": {
+			"nutrition": 6,
+			"saturationModifier": 0.6000000238418579,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"ecologics:walnut": {
+			"nutrition": 1,
+			"saturationModifier": 0.0,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersdelight:cabbage": {
+			"nutrition": 2,
+			"saturationModifier": 0.4400000274181366,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"respitecreators:incomplete_rose_hip_pie": {
+			"nutrition": 3,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"minecraft:pumpkin_pie": {
+			"nutrition": 8,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"minecraft:porkchop": {
+			"nutrition": 3,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"biomemakeover:bulbus_root": {
+			"nutrition": 2,
+			"saturationModifier": 0.6000000238418579,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersrespite:tea_curry": {
+			"nutrition": 12,
+			"saturationModifier": 0.8800000548362732,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"farmersdelight:steak_and_potatoes": {
+			"nutrition": 15,
+			"saturationModifier": 0.8800000548362732,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"galosphere:golden_lichen_cordyceps": {
+			"nutrition": 2,
+			"saturationModifier": 0.10000000149011612,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersrespite:strong_green_tea": {
+			"nutrition": 2,
+			"saturationModifier": 0.550000011920929,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"biomemakeover:cooked_glowfish": {
+			"nutrition": 5,
+			"saturationModifier": 0.6000000238418579,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"byg:joshua_fruit": {
+			"nutrition": 2,
+			"saturationModifier": 0.3499999940395355,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"promenade:mango": {
+			"nutrition": 4,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"minecraft:dried_kelp": {
+			"nutrition": 1,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"aylyth:nysian_grapes": {
+			"nutrition": 2,
+			"saturationModifier": 0.5,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersrespite:strong_melon_juice": {
+			"nutrition": 2,
+			"saturationModifier": 0.550000011920929,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"rootsclassic:nightshade": {
+			"nutrition": 2,
+			"saturationModifier": 0.10000000149011612,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"delightfulcreators:incomplete_roast_chicken": {
+			"nutrition": 3,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"bwplus:bloodroot_item": {
+			"nutrition": 4,
+			"saturationModifier": 0.6000000238418579,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"promenade:blueberries": {
+			"nutrition": 2,
+			"saturationModifier": 0.10000000149011612,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"rootsclassic:redcurrant": {
+			"nutrition": 4,
+			"saturationModifier": 0.4000000059604645,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"orpheus:heraclitian_flux_potion": {
+			"nutrition": 4,
+			"saturationModifier": 0.75,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"betternether:stalagnate_bowl_apple": {
+			"nutrition": 4,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"betteranimalsplus:venisonraw": {
+			"nutrition": 4,
+			"saturationModifier": 0.0,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersdelight:smoked_ham": {
+			"nutrition": 12,
+			"saturationModifier": 0.8800000548362732,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"betterend:shadow_berry_jelly": {
+			"nutrition": 6,
+			"saturationModifier": 0.800000011920929,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"byg:crimson_berries": {
+			"nutrition": 3,
+			"saturationModifier": 0.4000000059604645,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"betteranimalsplus:blubber": {
+			"nutrition": 1,
+			"saturationModifier": 2.0,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"biomemakeover:raw_toad": {
+			"nutrition": 3,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"minecraft:pufferfish": {
+			"nutrition": 1,
+			"saturationModifier": 0.10000000149011612,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"incubus_core:everfruiting_berry_branch": {
+			"nutrition": 2,
+			"saturationModifier": 0.6000000238418579,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersdelight:cooked_rice": {
+			"nutrition": 7,
+			"saturationModifier": 0.4400000274181366,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"nethersdelight:plate_of_stuffed_hoglin_roast": {
+			"nutrition": 8,
+			"saturationModifier": 0.6000000238418579,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"minecraft:tropical_fish": {
+			"nutrition": 1,
+			"saturationModifier": 0.10000000149011612,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersrespite:black_cod": {
+			"nutrition": 12,
+			"saturationModifier": 0.9900000095367432,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"farmersdelight:cooked_chicken_cuts": {
+			"nutrition": 3,
+			"saturationModifier": 0.6600000262260437,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"respitecreators:coffee_cake_coating": {
+			"nutrition": 3,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"betterend:end_fish_raw": {
+			"nutrition": 2,
+			"saturationModifier": 0.10000000149011612,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"botania:brew_flask": {
+			"nutrition": 2,
+			"saturationModifier": 0.5,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersrespite:long_coffee": {
+			"nutrition": 2,
+			"saturationModifier": 0.550000011920929,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"betterend:bolux_mushroom_cooked": {
+			"nutrition": 6,
+			"saturationModifier": 0.6000000238418579,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"minecraft:cake": {
+			"nutrition": 10,
+			"saturationModifier": 0.699999988079071,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersdelight:shepherds_pie": {
+			"nutrition": 17,
+			"saturationModifier": 0.8250000476837158,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"delightfulcreators:incomplete_pasta_with_mutton_chop": {
+			"nutrition": 3,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"minecraft:bread": {
+			"nutrition": 5,
+			"saturationModifier": 0.6000000238418579,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersdelight:vegetable_noodles": {
+			"nutrition": 17,
+			"saturationModifier": 0.8250000476837158,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"paradise_lost:amadrys_bread": {
+			"nutrition": 5,
+			"saturationModifier": 1.2000000476837158,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"minecraft:cookie": {
+			"nutrition": 2,
+			"saturationModifier": 0.10000000149011612,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"betterend:blossom_berry": {
+			"nutrition": 4,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersdelight:kelp_roll_slice": {
+			"nutrition": 7,
+			"saturationModifier": 0.550000011920929,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"miskatonicmysteries:chemical_fuel": {
+			"nutrition": 2,
+			"saturationModifier": 0.5,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"minecraft:golden_carrot": {
+			"nutrition": 6,
+			"saturationModifier": 1.2000000476837158,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"rootsclassic:old_root": {
+			"nutrition": 1,
+			"saturationModifier": 0.10000000149011612,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"ad_astra:cheese": {
+			"nutrition": 4,
+			"saturationModifier": 1.0,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"rootsclassic:fruit_salad": {
+			"nutrition": 8,
+			"saturationModifier": 0.9000000357627869,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersdelight:chicken_sandwich": {
+			"nutrition": 12,
+			"saturationModifier": 0.8800000548362732,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"minecraft:potato": {
+			"nutrition": 1,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"respitecreators:incomplete_coffee_cake": {
+			"nutrition": 3,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersdelight:hamburger": {
+			"nutrition": 13,
+			"saturationModifier": 0.8800000548362732,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"minecraft:rabbit": {
+			"nutrition": 3,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"delightfulcreators:incomplete_steak_and_potatoes": {
+			"nutrition": 3,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersdelight:mutton_chops": {
+			"nutrition": 1,
+			"saturationModifier": 0.33000001311302185,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"betternether:agave_medicine": {
+			"nutrition": 0,
+			"saturationModifier": 0.0,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"rottencreatures:frozen_rotten_flesh": {
+			"nutrition": 4,
+			"saturationModifier": 1.0,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"minecraft:milk_bucket": {
+			"nutrition": 6,
+			"saturationModifier": 1.0,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"miskatonicmysteries:cirrhosus_flesh": {
+			"nutrition": 8,
+			"saturationModifier": 1.0,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersdelight:pumpkin_slice": {
+			"nutrition": 3,
+			"saturationModifier": 0.33000001311302185,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"minecraft:beef": {
+			"nutrition": 3,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"majruszsdifficulty:recall_potion": {
+			"nutrition": 4,
+			"saturationModifier": 0.75,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"botania:mana_cookie": {
+			"nutrition": 0,
+			"saturationModifier": 0.10000000149011612,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"hexgloop:hexxyos": {
+			"nutrition": 8,
+			"saturationModifier": 0.800000011920929,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"byg:baobab_fruit": {
+			"nutrition": 3,
+			"saturationModifier": 0.5,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersrespite:black_tea": {
+			"nutrition": 2,
+			"saturationModifier": 0.550000011920929,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"betterend:shadow_berry_cooked": {
+			"nutrition": 6,
+			"saturationModifier": 0.699999988079071,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"galosphere:lichen_cordyceps": {
+			"nutrition": 2,
+			"saturationModifier": 0.10000000149011612,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersrespite:coffee_berries": {
+			"nutrition": 2,
+			"saturationModifier": 0.4400000274181366,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"farmersdelight:honey_glazed_ham": {
+			"nutrition": 17,
+			"saturationModifier": 0.8250000476837158,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"respitecreators:incomplete_black_cod": {
+			"nutrition": 3,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersdelight:mutton_wrap": {
+			"nutrition": 13,
+			"saturationModifier": 0.8800000548362732,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"farmersdelight:pasta_with_meatballs": {
+			"nutrition": 15,
+			"saturationModifier": 0.8800000548362732,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"paradise_lost:orange": {
+			"nutrition": 5,
+			"saturationModifier": 0.800000011920929,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"nethersdelight:strider_slice": {
+			"nutrition": 4,
+			"saturationModifier": 0.699999988079071,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"minecraft:beetroot": {
+			"nutrition": 1,
+			"saturationModifier": 0.6000000238418579,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"byg:blueberries": {
+			"nutrition": 2,
+			"saturationModifier": 0.10000000149011612,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"bewitchment:garlic_bread": {
+			"nutrition": 10,
+			"saturationModifier": 0.5,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersdelight:bacon": {
+			"nutrition": 2,
+			"saturationModifier": 0.33000001311302185,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"delightfulcreators:incomplete_mixed_salad": {
+			"nutrition": 3,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"nethersdelight:plate_of_stuffed_hoglin_snout": {
+			"nutrition": 14,
+			"saturationModifier": 0.8999999761581421,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersdelight:bacon_and_eggs": {
+			"nutrition": 12,
+			"saturationModifier": 0.6600000262260437,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"farmersrespite:nether_wart_sourdough": {
+			"nutrition": 5,
+			"saturationModifier": 0.2200000137090683,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"farmersrespite:long_green_tea": {
+			"nutrition": 2,
+			"saturationModifier": 0.550000011920929,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"botania:brew_vial": {
+			"nutrition": 2,
+			"saturationModifier": 0.5,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"minecraft:cooked_porkchop": {
+			"nutrition": 8,
+			"saturationModifier": 0.800000011920929,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersdelight:apple_cider": {
+			"nutrition": 2,
+			"saturationModifier": 0.550000011920929,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"minecraft:cooked_cod": {
+			"nutrition": 5,
+			"saturationModifier": 0.6000000238418579,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"biomemakeover:glowshroom_stew": {
+			"nutrition": 5,
+			"saturationModifier": 0.6000000238418579,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersdelight:cabbage_leaf": {
+			"nutrition": 1,
+			"saturationModifier": 0.4400000274181366,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"paradise_lost:amadrys_bread_glazed": {
+			"nutrition": 8,
+			"saturationModifier": 1.399999976158142,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"betterend:cave_pumpkin_pie": {
+			"nutrition": 8,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersrespite:yellow_tea": {
+			"nutrition": 2,
+			"saturationModifier": 0.550000011920929,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"farmersdelight:dog_food": {
+			"nutrition": 5,
+			"saturationModifier": 0.2200000137090683,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"betternether:stalagnate_bowl_wart": {
+			"nutrition": 6,
+			"saturationModifier": 0.6000000238418579,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"delightfulcreators:incomplete_hamburger": {
+			"nutrition": 3,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"betteranimalsplus:calamari_raw": {
+			"nutrition": 2,
+			"saturationModifier": 0.25,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersdelight:tomato_sauce": {
+			"nutrition": 5,
+			"saturationModifier": 0.4400000274181366,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"ecologics:prickly_pear": {
+			"nutrition": 4,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"betteranimalsplus:pheasantraw": {
+			"nutrition": 3,
+			"saturationModifier": 0.0,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"paradise_lost:amadrys_bushel": {
+			"nutrition": 1,
+			"saturationModifier": 0.25,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"bewitchment:witchberry_pie": {
+			"nutrition": 8,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersdelight:chocolate_pie_slice": {
+			"nutrition": 3,
+			"saturationModifier": 0.33000001311302185,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"modern_industrialization:mixed_ingot_iridium": {
+			"nutrition": 20,
+			"saturationModifier": 1.0,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersdelight:roasted_mutton_chops": {
+			"nutrition": 17,
+			"saturationModifier": 0.8250000476837158,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"paradise_lost:swedroot": {
+			"nutrition": 2,
+			"saturationModifier": 1.5,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersdelight:pie_crust": {
+			"nutrition": 2,
+			"saturationModifier": 0.2200000137090683,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"farmersdelight:salmon_slice": {
+			"nutrition": 1,
+			"saturationModifier": 0.11000000685453415,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"paradise_lost:mystery_milk": {
+			"nutrition": 6,
+			"saturationModifier": 1.0,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersrespite:rose_hip_tea": {
+			"nutrition": 2,
+			"saturationModifier": 0.550000011920929,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"minecraft:suspicious_stew": {
+			"nutrition": 6,
+			"saturationModifier": 0.6000000238418579,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"minecraft:potion": {
+			"nutrition": 4,
+			"saturationModifier": 0.75,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"minecraft:splash_potion": {
+			"nutrition": 4,
+			"saturationModifier": 0.75,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"minecraft:chicken": {
+			"nutrition": 2,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"promenade:banana": {
+			"nutrition": 4,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"ecologics:crab_meat": {
+			"nutrition": 5,
+			"saturationModifier": 0.6000000238418579,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersdelight:barbecue_stick": {
+			"nutrition": 10,
+			"saturationModifier": 0.9900000095367432,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"farmersdelight:nether_salad": {
+			"nutrition": 6,
+			"saturationModifier": 0.4400000274181366,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"miskatonicmysteries:absinthe": {
+			"nutrition": 2,
+			"saturationModifier": 0.5,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"heartytrinkets:green_heart": {
+			"nutrition": 0,
+			"saturationModifier": 0.0,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersdelight:squid_ink_pasta": {
+			"nutrition": 17,
+			"saturationModifier": 0.8250000476837158,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"farmersdelight:cooked_bacon": {
+			"nutrition": 5,
+			"saturationModifier": 0.8800000548362732,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"incubus_core:rat_poison": {
+			"nutrition": 1,
+			"saturationModifier": 0.0,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersdelight:tomato": {
+			"nutrition": 1,
+			"saturationModifier": 0.33000001311302185,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"advanced_reborn:food_can": {
+			"nutrition": 2,
+			"saturationModifier": 2.0,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"betterend:blossom_berry_jelly": {
+			"nutrition": 8,
+			"saturationModifier": 0.699999988079071,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersdelight:cod_roll": {
+			"nutrition": 8,
+			"saturationModifier": 0.6600000262260437,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"neepmeat:whisper_bread": {
+			"nutrition": 4,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"heartytrinkets:red_heart": {
+			"nutrition": 0,
+			"saturationModifier": 0.0,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"artifacts:everlasting_beef": {
+			"nutrition": 3,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"betterend:chorus_mushroom_cooked": {
+			"nutrition": 6,
+			"saturationModifier": 0.6000000238418579,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersdelight:bacon_sandwich": {
+			"nutrition": 12,
+			"saturationModifier": 0.8800000548362732,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"farmersrespite:long_yellow_tea": {
+			"nutrition": 2,
+			"saturationModifier": 0.550000011920929,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"incubus_core:mobilk-1": {
+			"nutrition": 200,
+			"saturationModifier": 10.0,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"cinderscapes:bramble_berries": {
+			"nutrition": 2,
+			"saturationModifier": 0.10000000149011612,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"betteranimalsplus:horseshoe_crab_blood": {
+			"nutrition": 2,
+			"saturationModifier": 0.5,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"minecraft:honey_bottle": {
+			"nutrition": 2,
+			"saturationModifier": 0.5,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"bwplus:dragonfruit": {
+			"nutrition": 3,
+			"saturationModifier": 0.6000000238418579,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"betteranimalsplus:turkey_leg_cooked": {
+			"nutrition": 4,
+			"saturationModifier": 1.2000000476837158,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"cave_enhancements:chocolate_pudding": {
+			"nutrition": 5,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"respitecreators:coffee_cake_sponge": {
+			"nutrition": 3,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"besmirchment:vampire_sunscreen": {
+			"nutrition": 2,
+			"saturationModifier": 0.5,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"minecraft:cooked_mutton": {
+			"nutrition": 6,
+			"saturationModifier": 0.800000011920929,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"ecologics:tropical_stew": {
+			"nutrition": 10,
+			"saturationModifier": 0.6000000238418579,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"bewitchment:witchberry_cookie": {
+			"nutrition": 2,
+			"saturationModifier": 0.10000000149011612,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"bewitchment:grilled_garlic": {
+			"nutrition": 3,
+			"saturationModifier": 0.6000000238418579,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersdelight:grilled_salmon": {
+			"nutrition": 17,
+			"saturationModifier": 0.8250000476837158,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"nethersdelight:plate_of_stuffed_hoglin_ham": {
+			"nutrition": 10,
+			"saturationModifier": 0.75,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"cave_enhancements:goop_pudding": {
+			"nutrition": 5,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"byg:green_apple_pie": {
+			"nutrition": 6,
+			"saturationModifier": 0.4000000059604645,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"minecraft:chorus_fruit": {
+			"nutrition": 4,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersdelight:baked_cod_stew": {
+			"nutrition": 17,
+			"saturationModifier": 0.8250000476837158,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"hexcasting:sub_sandwich": {
+			"nutrition": 14,
+			"saturationModifier": 1.2000000476837158,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"create:honeyed_apple": {
+			"nutrition": 8,
+			"saturationModifier": 0.800000011920929,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"delightfulcreators:incomplete_egg_sandwich": {
+			"nutrition": 3,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"minecraft:cooked_salmon": {
+			"nutrition": 6,
+			"saturationModifier": 0.800000011920929,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"betteranimalsplus:venisoncooked": {
+			"nutrition": 8,
+			"saturationModifier": 1.2000000476837158,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersdelight:salmon_roll": {
+			"nutrition": 8,
+			"saturationModifier": 0.6600000262260437,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"promenade:duck": {
+			"nutrition": 2,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"create:bar_of_chocolate": {
+			"nutrition": 6,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"betteranimalsplus:turkey_leg_raw": {
+			"nutrition": 2,
+			"saturationModifier": 0.0,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"minecells:monsters_eye": {
+			"nutrition": 8,
+			"saturationModifier": 0.800000011920929,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"biomemakeover:cooked_crab": {
+			"nutrition": 5,
+			"saturationModifier": 0.6000000238418579,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"heartytrinkets:amethyst_apple": {
+			"nutrition": 20,
+			"saturationModifier": 0.800000011920929,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"bewitchment:witchberry": {
+			"nutrition": 3,
+			"saturationModifier": 0.6000000238418579,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"rootsclassic:whitecurrant": {
+			"nutrition": 4,
+			"saturationModifier": 0.4000000059604645,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"neepmeat:meat_scrap": {
+			"nutrition": 1,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"minecells:guts": {
+			"nutrition": 3,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"neepmeat:milk_carton": {
+			"nutrition": 6,
+			"saturationModifier": 1.0,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersrespite:blazing_chili": {
+			"nutrition": 12,
+			"saturationModifier": 0.4400000274181366,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"betteranimalsplus:fried_egg": {
+			"nutrition": 5,
+			"saturationModifier": 1.5,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"betteranimalsplus:crab_meat_cooked": {
+			"nutrition": 5,
+			"saturationModifier": 1.2000000476837158,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersdelight:pasta_with_mutton_chop": {
+			"nutrition": 15,
+			"saturationModifier": 0.8800000548362732,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"hexgloop:hex_snack": {
+			"nutrition": 2,
+			"saturationModifier": 0.5,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"create:sweet_roll": {
+			"nutrition": 6,
+			"saturationModifier": 0.800000011920929,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersdelight:sweet_berry_cookie": {
+			"nutrition": 2,
+			"saturationModifier": 0.11000000685453415,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"farmersrespite:strong_rose_hip_tea": {
+			"nutrition": 2,
+			"saturationModifier": 0.550000011920929,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"bewitchment:demon_heart": {
+			"nutrition": 8,
+			"saturationModifier": 0.6000000238418579,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersdelight:kelp_roll": {
+			"nutrition": 15,
+			"saturationModifier": 0.6600000262260437,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"neepmeat:pinkdrink": {
+			"nutrition": 4,
+			"saturationModifier": 0.4000000059604645,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"minecraft:rabbit_stew": {
+			"nutrition": 10,
+			"saturationModifier": 0.6000000238418579,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersdelight:hot_cocoa": {
+			"nutrition": 2,
+			"saturationModifier": 0.550000011920929,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"rootsclassic:dragons_eye": {
+			"nutrition": 2,
+			"saturationModifier": 0.10000000149011612,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"delightfulcreators:incomplete_shepherds_pie": {
+			"nutrition": 3,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"bosses_of_mass_destruction:crystal_fruit": {
+			"nutrition": 4,
+			"saturationModifier": 1.2000000476837158,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"paradise_lost:aurel_milk_bucket": {
+			"nutrition": 6,
+			"saturationModifier": 1.0,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"delightfulcreators:incomplete_fruit_salad": {
+			"nutrition": 3,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"paradise_lost:gingerbread_man": {
+			"nutrition": 2,
+			"saturationModifier": 1.5,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"delightfulcreators:incomplete_horse_feed": {
+			"nutrition": 3,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"minecraft:carrot": {
+			"nutrition": 3,
+			"saturationModifier": 0.6000000238418579,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"delightfulcreators:incomplete_pumpkin_pie": {
+			"nutrition": 3,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"incubus_core:lean": {
+			"nutrition": 1,
+			"saturationModifier": 1.0,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"delightfulcreators:incomplete_mutton_wrap": {
+			"nutrition": 3,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"neepmeat:enlightened_brain": {
+			"nutrition": 6,
+			"saturationModifier": 0.6000000238418579,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersdelight:cooked_cod_slice": {
+			"nutrition": 3,
+			"saturationModifier": 0.550000011920929,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"farmersdelight:fried_rice": {
+			"nutrition": 17,
+			"saturationModifier": 0.8250000476837158,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"farmersrespite:strong_black_tea": {
+			"nutrition": 2,
+			"saturationModifier": 0.550000011920929,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"minecraft:cooked_chicken": {
+			"nutrition": 6,
+			"saturationModifier": 0.6000000238418579,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"minecraft:mutton": {
+			"nutrition": 2,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"delightfulcreators:pumpkin_pie_slice": {
+			"nutrition": 3,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"betternether:stalagnate_bowl_mushroom": {
+			"nutrition": 6,
+			"saturationModifier": 0.6000000238418579,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersdelight:raw_pasta": {
+			"nutrition": 2,
+			"saturationModifier": 0.33000001311302185,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"minecraft:cooked_beef": {
+			"nutrition": 8,
+			"saturationModifier": 0.800000011920929,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"promenade:apricot": {
+			"nutrition": 4,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersdelight:stuffed_pumpkin": {
+			"nutrition": 17,
+			"saturationModifier": 0.8250000476837158,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"nethersdelight:warped_moldy_meat": {
+			"nutrition": 9,
+			"saturationModifier": 0.800000011920929,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersdelight:stuffed_potato": {
+			"nutrition": 12,
+			"saturationModifier": 0.7699999809265137,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"farmersrespite:coffee_cake_slice": {
+			"nutrition": 3,
+			"saturationModifier": 0.33000001311302185,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"rottencreatures:magma_rotten_flesh": {
+			"nutrition": 4,
+			"saturationModifier": 1.0,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"minecraft:salmon": {
+			"nutrition": 2,
+			"saturationModifier": 0.10000000149011612,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"hexcasting:creative_unlocker": {
+			"nutrition": 20,
+			"saturationModifier": 1.0,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersdelight:apple_pie_slice": {
+			"nutrition": 3,
+			"saturationModifier": 0.33000001311302185,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"cave_enhancements:glow_berry_juice": {
+			"nutrition": 2,
+			"saturationModifier": 0.5,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"aylyth:pomegranate": {
+			"nutrition": 4,
+			"saturationModifier": 5.0,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"betterend:sweet_berry_jelly": {
+			"nutrition": 8,
+			"saturationModifier": 0.699999988079071,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"betteranimalsplus:eel_meat_raw": {
+			"nutrition": 1,
+			"saturationModifier": 0.0,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"farmersdelight:fish_stew": {
+			"nutrition": 15,
+			"saturationModifier": 0.8800000548362732,
+			"healthRegenModifier": 1.25,
+			"extraEffects": []
+		},
+		"paradise_lost:blackcurrant": {
+			"nutrition": 2,
+			"saturationModifier": 0.5,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"nethersdelight:strider_moss_stew": {
+			"nutrition": 8,
+			"saturationModifier": 0.6000000238418579,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"biomemakeover:raw_crab": {
+			"nutrition": 2,
+			"saturationModifier": 0.10000000149011612,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"neepmeat:raw_meat_brick": {
+			"nutrition": 2,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		}
+	}
+}

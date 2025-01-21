@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "000"
+  ],
+  "key": {
+    "0": {
+      "item": "bewitchment:dragons_blood_slab"
+    }
+  },
+  "result": {
+    "item": "suppsquared:bewitchment/item_shelf_dragons_blood",
+    "count": 2
+  }
+}

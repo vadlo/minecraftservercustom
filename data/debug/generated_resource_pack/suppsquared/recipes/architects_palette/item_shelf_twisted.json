@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "000"
+  ],
+  "key": {
+    "0": {
+      "item": "architects_palette:twisted_slab"
+    }
+  },
+  "result": {
+    "item": "suppsquared:architects_palette/item_shelf_twisted",
+    "count": 2
+  }
+}

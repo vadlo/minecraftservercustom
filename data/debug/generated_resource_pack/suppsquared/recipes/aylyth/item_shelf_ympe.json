@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "000"
+  ],
+  "key": {
+    "0": {
+      "item": "aylyth:ympe_slab"
+    }
+  },
+  "result": {
+    "item": "suppsquared:aylyth/item_shelf_ympe",
+    "count": 2
+  }
+}

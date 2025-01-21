@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "000"
+  ],
+  "key": {
+    "0": {
+      "item": "biomemakeover:blighted_balsa_slab"
+    }
+  },
+  "result": {
+    "item": "suppsquared:biomemakeover/item_shelf_blighted_balsa",
+    "count": 2
+  }
+}

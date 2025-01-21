@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "d3c11e9790aa31daa394d401cf3828a0"
+	name: "vadl0"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

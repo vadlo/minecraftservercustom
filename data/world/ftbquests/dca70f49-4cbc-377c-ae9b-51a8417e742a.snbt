@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "dca70f494cbc377cae9b51a8417e742a"
+	name: "NuteIIka"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

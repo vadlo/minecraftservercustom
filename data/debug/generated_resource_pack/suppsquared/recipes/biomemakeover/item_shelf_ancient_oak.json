@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "000"
+  ],
+  "key": {
+    "0": {
+      "item": "biomemakeover:ancient_oak_slab"
+    }
+  },
+  "result": {
+    "item": "suppsquared:biomemakeover/item_shelf_ancient_oak",
+    "count": 2
+  }
+}

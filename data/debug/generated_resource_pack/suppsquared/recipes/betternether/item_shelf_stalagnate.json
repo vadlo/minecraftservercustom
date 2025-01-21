@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "000"
+  ],
+  "key": {
+    "0": {
+      "item": "betternether:stalagnate_slab"
+    }
+  },
+  "result": {
+    "item": "suppsquared:betternether/item_shelf_stalagnate",
+    "count": 2
+  }
+}

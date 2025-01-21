@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "000"
+  ],
+  "key": {
+    "0": {
+      "item": "cinderscapes:umbral_slab"
+    }
+  },
+  "result": {
+    "item": "suppsquared:cinderscapes/item_shelf_umbral",
+    "count": 2
+  }
+}

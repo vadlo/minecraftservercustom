@@ -1,0 +1,17 @@
+{
+	id: "dca70f49-4cbc-377c-ae9b-51a8417e742a"
+	type: "player"
+	player_name: "NuteIIka"
+	ranks: {
+		dca70f49-4cbc-377c-ae9b-51a8417e742a: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "NuteIIka"
+		"ftbteams:description": ""
+		"ftbteams:color": "#C959FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

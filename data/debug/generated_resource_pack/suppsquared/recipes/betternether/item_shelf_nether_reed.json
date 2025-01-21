@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "000"
+  ],
+  "key": {
+    "0": {
+      "item": "betternether:nether_reed_slab"
+    }
+  },
+  "result": {
+    "item": "suppsquared:betternether/item_shelf_nether_reed",
+    "count": 2
+  }
+}

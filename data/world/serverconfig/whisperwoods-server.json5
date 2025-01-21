@@ -1,0 +1,440 @@
+// 
+{
+	"entities": {
+		"moth": {
+			"spawning": {
+				// Enables natural spawning - More info on these options: https://minecraft.fandom.com/wiki/Spawn#Java_Edition
+				"spawn_naturally": true,
+				// The spawn weight compared to other entities (typically between 6-20)
+				"spawn_weight": 10,
+				// Minimum amount of entities in spawned groups
+				"minimum_group_size": 1,
+				// Maximum amount of entities in spawned groups - Must be greater or equal to min value
+				"maximum_group_size": 3,
+				// Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+				"spawn_biomes": [
+					"byg:temperate_rainforest",
+					"minecraft:old_growth_birch_forest",
+					"regions_unexplored:smouldering_woodland",
+					"regions_unexplored:silver_birch_forest",
+					"minecraft:flower_forest",
+					"byg:zelkova_forest",
+					"minecraft:old_growth_spruce_taiga",
+					"byg:cherry_blossom_forest",
+					"minecraft:grove",
+					"byg:autumnal_forest",
+					"regions_unexplored:giant_bayou",
+					"byg:aspen_forest",
+					"regions_unexplored:golden_boreal_forest",
+					"byg:redwood_thicket",
+					"byg:temperate_grove",
+					"regions_unexplored:flooded_plains",
+					"promenade:white_cherry_oak_forest",
+					"byg:red_oak_forest",
+					"regions_unexplored:temperate_grove",
+					"magicalforest:magical_forest",
+					"regions_unexplored:orchard",
+					"byg:cypress_swamplands",
+					"byg:cika_woods",
+					"byg:jacaranda_forest",
+					"minecraft:mangrove_swamp",
+					"regions_unexplored:blackwood_forest",
+					"promenade:pink_cherry_oak_forest",
+					"byg:orchard",
+					"byg:forgotten_forest",
+					"minecraft:snowy_taiga",
+					"regions_unexplored:boreal_forest",
+					"regions_unexplored:cold_deciduous_forest",
+					"regions_unexplored:autumnal_maple_forest",
+					"minecraft:birch_forest",
+					"minecraft:taiga",
+					"regions_unexplored:bayou",
+					"byg:ebony_woods",
+					"minecraft:dark_forest",
+					"regions_unexplored:fen",
+					"byg:fragment_forest",
+					"minecraft:sparse_jungle",
+					"regions_unexplored:mauve_hills",
+					"regions_unexplored:deciduous_forest",
+					"minecraft:windswept_forest",
+					"byg:bayou",
+					"minecraft:swamp",
+					"minecraft:forest",
+					"regions_unexplored:maple_forest",
+					"promenade:pumpkin_pastures",
+					"minecraft:old_growth_pine_taiga",
+					"regions_unexplored:cherry_hills"
+				],
+				"spawn_costs": {
+					// Whether to use spawn costs in spawning or not
+					"use_spawn_costs": false,
+					// Cost to spawning algorithm per entity spawned
+					"cost_per_spawn": 1.0,
+					// Maximum cost the spawning algorithm can accrue for this entity
+					"maximum_cost_per_biome": 10.0,
+					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+					"spawn_cost_biomes": []
+				}
+			},
+			// How many moths required to destroy a torch - Disabled if set to 0
+			"moths_to_destroy_torch": 5
+		},
+		"hidebehind": {
+			"spawning": {
+				// Enables natural spawning - More info on these options: https://minecraft.fandom.com/wiki/Spawn#Java_Edition
+				"spawn_naturally": true,
+				// The spawn weight compared to other entities (typically between 6-20)
+				"spawn_weight": 8,
+				// Minimum amount of entities in spawned groups
+				"minimum_group_size": 1,
+				// Maximum amount of entities in spawned groups - Must be greater or equal to min value
+				"maximum_group_size": 1,
+				// Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+				"spawn_biomes": [
+					"byg:forgotten_forest",
+					"minecraft:snowy_taiga",
+					"byg:temperate_rainforest",
+					"minecraft:old_growth_birch_forest",
+					"regions_unexplored:smouldering_woodland",
+					"regions_unexplored:boreal_forest",
+					"regions_unexplored:silver_birch_forest",
+					"regions_unexplored:cold_deciduous_forest",
+					"minecraft:flower_forest",
+					"regions_unexplored:autumnal_maple_forest",
+					"byg:zelkova_forest",
+					"minecraft:birch_forest",
+					"minecraft:old_growth_spruce_taiga",
+					"byg:cherry_blossom_forest",
+					"minecraft:grove",
+					"byg:autumnal_forest",
+					"minecraft:taiga",
+					"byg:ebony_woods",
+					"byg:aspen_forest",
+					"minecraft:dark_forest",
+					"regions_unexplored:golden_boreal_forest",
+					"byg:fragment_forest",
+					"minecraft:sparse_jungle",
+					"regions_unexplored:mauve_hills",
+					"byg:redwood_thicket",
+					"byg:temperate_grove",
+					"promenade:white_cherry_oak_forest",
+					"byg:red_oak_forest",
+					"regions_unexplored:temperate_grove",
+					"magicalforest:magical_forest",
+					"regions_unexplored:deciduous_forest",
+					"minecraft:windswept_forest",
+					"regions_unexplored:orchard",
+					"byg:cika_woods",
+					"byg:jacaranda_forest",
+					"regions_unexplored:blackwood_forest",
+					"promenade:pink_cherry_oak_forest",
+					"minecraft:forest",
+					"regions_unexplored:maple_forest",
+					"promenade:pumpkin_pastures",
+					"minecraft:old_growth_pine_taiga",
+					"byg:orchard",
+					"regions_unexplored:cherry_hills"
+				],
+				// Enables biome based variant selection. This will make this entity choose variants tailored to the biome they spawn in (Only applies to natural spawns)
+				"biome_based_variants": true,
+				"spawn_costs": {
+					// Whether to use spawn costs in spawning or not
+					"use_spawn_costs": false,
+					// Cost to spawning algorithm per entity spawned
+					"cost_per_spawn": 1.0,
+					// Maximum cost the spawning algorithm can accrue for this entity
+					"maximum_cost_per_biome": 10.0,
+					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+					"spawn_cost_biomes": []
+				}
+			}
+		},
+		"wisp": {
+			// Allows the entity to despawn freely when no players are nearby, like vanilla monsters do
+			"can_despawn": false,
+			"spawning": {
+				// Enables natural spawning - More info on these options: https://minecraft.fandom.com/wiki/Spawn#Java_Edition
+				"spawn_naturally": true,
+				// The spawn weight compared to other entities (typically between 6-20)
+				"spawn_weight": 13,
+				// Minimum amount of entities in spawned groups
+				"minimum_group_size": 1,
+				// Maximum amount of entities in spawned groups - Must be greater or equal to min value
+				"maximum_group_size": 3,
+				// Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+				"spawn_biomes": [
+					"byg:temperate_rainforest",
+					"minecraft:old_growth_birch_forest",
+					"regions_unexplored:smouldering_woodland",
+					"minecraft:crimson_forest",
+					"regions_unexplored:silver_birch_forest",
+					"minecraft:flower_forest",
+					"byg:zelkova_forest",
+					"minecraft:old_growth_spruce_taiga",
+					"byg:cherry_blossom_forest",
+					"minecraft:grove",
+					"byg:autumnal_forest",
+					"regions_unexplored:giant_bayou",
+					"byg:aspen_forest",
+					"regions_unexplored:golden_boreal_forest",
+					"byg:redwood_thicket",
+					"byg:temperate_grove",
+					"regions_unexplored:flooded_plains",
+					"promenade:white_cherry_oak_forest",
+					"byg:red_oak_forest",
+					"regions_unexplored:temperate_grove",
+					"magicalforest:magical_forest",
+					"regions_unexplored:orchard",
+					"byg:cypress_swamplands",
+					"byg:cika_woods",
+					"byg:jacaranda_forest",
+					"minecraft:mangrove_swamp",
+					"regions_unexplored:blackwood_forest",
+					"promenade:pink_cherry_oak_forest",
+					"byg:orchard",
+					"byg:forgotten_forest",
+					"minecraft:snowy_taiga",
+					"regions_unexplored:boreal_forest",
+					"regions_unexplored:cold_deciduous_forest",
+					"regions_unexplored:autumnal_maple_forest",
+					"minecraft:birch_forest",
+					"minecraft:taiga",
+					"regions_unexplored:bayou",
+					"byg:ebony_woods",
+					"minecraft:dark_forest",
+					"regions_unexplored:fen",
+					"byg:fragment_forest",
+					"minecraft:sparse_jungle",
+					"regions_unexplored:mauve_hills",
+					"regions_unexplored:deciduous_forest",
+					"minecraft:windswept_forest",
+					"minecraft:warped_forest",
+					"byg:bayou",
+					"minecraft:swamp",
+					"minecraft:forest",
+					"regions_unexplored:maple_forest",
+					"promenade:pumpkin_pastures",
+					"minecraft:old_growth_pine_taiga",
+					"regions_unexplored:cherry_hills"
+				],
+				"spawn_costs": {
+					// Whether to use spawn costs in spawning or not
+					"use_spawn_costs": false,
+					// Cost to spawning algorithm per entity spawned
+					"cost_per_spawn": 1.0,
+					// Maximum cost the spawning algorithm can accrue for this entity
+					"maximum_cost_per_biome": 10.0,
+					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+					"spawn_cost_biomes": []
+				}
+			},
+			// Chance of wisp being hostile (soul stealer). Chance is a percentage out of 100. 0 is never, 100 is always
+			"hostile_chance": 12.5
+		},
+		"hirschgeist": {
+			// Allows the entity to despawn freely when no players are nearby, like vanilla monsters do
+			"can_despawn": false,
+			"spawning": {
+				// Enables natural spawning - More info on these options: https://minecraft.fandom.com/wiki/Spawn#Java_Edition
+				"spawn_naturally": true,
+				// The spawn weight compared to other entities (typically between 6-20)
+				"spawn_weight": 2,
+				// Minimum amount of entities in spawned groups
+				"minimum_group_size": 1,
+				// Maximum amount of entities in spawned groups - Must be greater or equal to min value
+				"maximum_group_size": 1,
+				// Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+				"spawn_biomes": [
+					"byg:forgotten_forest",
+					"minecraft:snowy_taiga",
+					"byg:temperate_rainforest",
+					"minecraft:old_growth_birch_forest",
+					"regions_unexplored:smouldering_woodland",
+					"regions_unexplored:boreal_forest",
+					"regions_unexplored:silver_birch_forest",
+					"regions_unexplored:cold_deciduous_forest",
+					"minecraft:flower_forest",
+					"regions_unexplored:autumnal_maple_forest",
+					"byg:zelkova_forest",
+					"minecraft:birch_forest",
+					"minecraft:old_growth_spruce_taiga",
+					"byg:cherry_blossom_forest",
+					"minecraft:grove",
+					"byg:autumnal_forest",
+					"minecraft:taiga",
+					"byg:ebony_woods",
+					"byg:aspen_forest",
+					"minecraft:dark_forest",
+					"regions_unexplored:golden_boreal_forest",
+					"byg:fragment_forest",
+					"minecraft:sparse_jungle",
+					"regions_unexplored:mauve_hills",
+					"byg:redwood_thicket",
+					"byg:temperate_grove",
+					"promenade:white_cherry_oak_forest",
+					"byg:red_oak_forest",
+					"regions_unexplored:temperate_grove",
+					"magicalforest:magical_forest",
+					"regions_unexplored:deciduous_forest",
+					"minecraft:windswept_forest",
+					"regions_unexplored:orchard",
+					"byg:cika_woods",
+					"byg:jacaranda_forest",
+					"regions_unexplored:blackwood_forest",
+					"promenade:pink_cherry_oak_forest",
+					"minecraft:forest",
+					"regions_unexplored:maple_forest",
+					"promenade:pumpkin_pastures",
+					"minecraft:old_growth_pine_taiga",
+					"byg:orchard",
+					"regions_unexplored:cherry_hills"
+				],
+				"spawn_costs": {
+					// Whether to use spawn costs in spawning or not
+					"use_spawn_costs": false,
+					// Cost to spawning algorithm per entity spawned
+					"cost_per_spawn": 1.0,
+					// Maximum cost the spawning algorithm can accrue for this entity
+					"maximum_cost_per_biome": 10.0,
+					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+					"spawn_cost_biomes": []
+				}
+			}
+		},
+		"zotzpyre": {
+			"spawning": {
+				// Enables natural spawning - More info on these options: https://minecraft.fandom.com/wiki/Spawn#Java_Edition
+				"spawn_naturally": true,
+				// The spawn weight compared to other entities (typically between 6-20)
+				"spawn_weight": 30,
+				// Minimum amount of entities in spawned groups
+				"minimum_group_size": 1,
+				// Maximum amount of entities in spawned groups - Must be greater or equal to min value
+				"maximum_group_size": 1,
+				// Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+				"spawn_biomes": [
+					"regions_unexplored:icy_desert",
+					"minecraft:snowy_slopes",
+					"byg:howling_peaks",
+					"byg:temperate_rainforest",
+					"regions_unexplored:sparse_redwoods",
+					"regions_unexplored:silver_birch_forest",
+					"minecraft:snowy_beach",
+					"byg:zelkova_forest",
+					"minecraft:old_growth_spruce_taiga",
+					"byg:cherry_blossom_forest",
+					"minecraft:eroded_badlands",
+					"minecraft:grove",
+					"regions_unexplored:mountains",
+					"minecraft:ice_spikes",
+					"byg:aspen_forest",
+					"regions_unexplored:golden_boreal_forest",
+					"byg:maple_taiga",
+					"regions_unexplored:towering_cliffs",
+					"regions_unexplored:highland_fields",
+					"byg:temperate_grove",
+					"byg:allium_fields",
+					"regions_unexplored:flooded_plains",
+					"magicalforest:magical_forest",
+					"byg:cypress_swamplands",
+					"byg:basalt_barrera",
+					"promenade:pink_cherry_oak_forest",
+					"minecraft:meadow",
+					"byg:orchard",
+					"regions_unexplored:bamboo_forest",
+					"byg:forgotten_forest",
+					"regions_unexplored:old_growth_rainforest",
+					"regions_unexplored:boreal_forest",
+					"regions_unexplored:cold_deciduous_forest",
+					"regions_unexplored:cold_boreal_forest",
+					"byg:dacite_shore",
+					"regions_unexplored:chalk_cliffs",
+					"regions_unexplored:autumnal_maple_forest",
+					"minecraft:birch_forest",
+					"minecraft:stony_peaks",
+					"regions_unexplored:bayou",
+					"regions_unexplored:rainforest",
+					"byg:rose_fields",
+					"byg:dacite_ridges",
+					"regions_unexplored:grassy_beach",
+					"minecraft:snowy_plains",
+					"minecraft:dark_forest",
+					"regions_unexplored:fen",
+					"byg:fragment_forest",
+					"regions_unexplored:arid_mountains",
+					"byg:guiana_shield",
+					"regions_unexplored:mauve_hills",
+					"byg:coconino_meadow",
+					"minecraft:windswept_forest",
+					"minecraft:swamp",
+					"minecraft:forest",
+					"minecraft:jungle",
+					"regions_unexplored:maple_forest",
+					"promenade:pumpkin_pastures",
+					"minecraft:old_growth_pine_taiga",
+					"byg:rainbow_beach",
+					"minecraft:old_growth_birch_forest",
+					"minecraft:windswept_gravelly_hills",
+					"regions_unexplored:smouldering_woodland",
+					"minecraft:windswept_hills",
+					"minecraft:flower_forest",
+					"regions_unexplored:lush_hills",
+					"regions_unexplored:gravel_beach",
+					"minecraft:beach",
+					"minecraft:stony_shore",
+					"regions_unexplored:spires",
+					"minecraft:frozen_peaks",
+					"regions_unexplored:pine_forest",
+					"regions_unexplored:tropics",
+					"regions_unexplored:eucalyptus_forest",
+					"byg:autumnal_forest",
+					"regions_unexplored:giant_bayou",
+					"byg:black_forest",
+					"regions_unexplored:redwoods",
+					"regions_unexplored:fungal_fen",
+					"byg:redwood_thicket",
+					"regions_unexplored:frozen_forest",
+					"promenade:white_cherry_oak_forest",
+					"byg:red_oak_forest",
+					"regions_unexplored:temperate_grove",
+					"byg:lush_stacks",
+					"regions_unexplored:orchard",
+					"regions_unexplored:pine_slopes",
+					"byg:cika_woods",
+					"byg:jacaranda_forest",
+					"minecraft:mangrove_swamp",
+					"regions_unexplored:blackwood_forest",
+					"byg:coniferous_forest",
+					"minecraft:snowy_taiga",
+					"regions_unexplored:icy_heights",
+					"minecraft:taiga",
+					"byg:ebony_woods",
+					"minecraft:windswept_savanna",
+					"byg:crag_gardens",
+					"byg:canadian_shield",
+					"minecraft:sparse_jungle",
+					"byg:dead_sea",
+					"byg:frosted_coniferous_forest",
+					"regions_unexplored:deciduous_forest",
+					"minecraft:bamboo_jungle",
+					"byg:autumnal_taiga",
+					"byg:skyris_vale",
+					"byg:amaranth_fields",
+					"byg:bayou",
+					"minecraft:jagged_peaks",
+					"regions_unexplored:cherry_hills"
+				],
+				"spawn_costs": {
+					// Whether to use spawn costs in spawning or not
+					"use_spawn_costs": false,
+					// Cost to spawning algorithm per entity spawned
+					"cost_per_spawn": 1.0,
+					// Maximum cost the spawning algorithm can accrue for this entity
+					"maximum_cost_per_biome": 10.0,
+					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+					"spawn_cost_biomes": []
+				}
+			}
+		}
+	}
+}

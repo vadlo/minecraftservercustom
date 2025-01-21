@@ -1,0 +1,7 @@
+// 1.19.2	2025-01-21T16:58:04.53601044	Tags for minecraft:block
+361aa1f358f5d248b91fff4c184c1b6baf238e31 data/c/tags/blocks/ores.json
+ca58ee52a71ae69946b4752ed12838db4298d6ad data/c/tags/blocks/movement_restricted.json
+f469cea25ffc57683eab6ea264c9c92c7d5572b9 data/c/tags/blocks/quartz_ores.json
+a539de012ace42efa62ffc653f9aa4fc53897335 data/carrier/tags/blocks/blacklist.json
+269e1f7bf1c1db655fbbed19f7966c175b291cfa data/minecraft/tags/blocks/needs_stone_tool.json
+9e72702d2fe175f4d3b4548af59693e51aa6f21f data/minecraft/tags/blocks/mineable/pickaxe.json

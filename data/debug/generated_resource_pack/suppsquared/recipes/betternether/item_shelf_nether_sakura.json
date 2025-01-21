@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "000"
+  ],
+  "key": {
+    "0": {
+      "item": "betternether:nether_sakura_slab"
+    }
+  },
+  "result": {
+    "item": "suppsquared:betternether/item_shelf_nether_sakura",
+    "count": 2
+  }
+}

@@ -1,0 +1,13 @@
+configVersion = 2
+showFirstPersonGloves = true
+showTooltips = true
+stopwatchMPH = false
+disableEvilSpread = false
+evilSpreadRarity = 4
+disableFallingStars = false
+fallingStarRarity = 25
+disableMeteorites = false
+meteoriteRarity = 2
+disableHardcoreExtraAccessory = false
+disableDemonHeart = false
+setExtraAccessorySlots = 0

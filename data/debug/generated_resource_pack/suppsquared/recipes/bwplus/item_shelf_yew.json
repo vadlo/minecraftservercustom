@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "000"
+  ],
+  "key": {
+    "0": {
+      "item": "bwplus:yew_slab"
+    }
+  },
+  "result": {
+    "item": "suppsquared:bwplus/item_shelf_yew",
+    "count": 2
+  }
+}
