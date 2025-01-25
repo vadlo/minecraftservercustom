@@ -1,0 +1,164 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"hanging": "true",
+			"diagonal": "true",
+			"alt": "true"
+		},
+		"Name": "spectral-decorations:blue_lantern"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"hanging": "true",
+			"diagonal": "true",
+			"alt": "true"
+		},
+		"Name": "spectral-decorations:blue_lantern"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"hanging": "false",
+			"diagonal": "true",
+			"alt": "true"
+		},
+		"Name": "spectral-decorations:blue_lantern"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"hanging": "false",
+			"diagonal": "true",
+			"alt": "true"
+		},
+		"Name": "spectral-decorations:blue_lantern"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"hanging": "true",
+			"diagonal": "false",
+			"alt": "true"
+		},
+		"Name": "spectral-decorations:blue_lantern"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"hanging": "true",
+			"diagonal": "false",
+			"alt": "true"
+		},
+		"Name": "spectral-decorations:blue_lantern"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"hanging": "false",
+			"diagonal": "false",
+			"alt": "true"
+		},
+		"Name": "spectral-decorations:blue_lantern"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"hanging": "false",
+			"diagonal": "false",
+			"alt": "true"
+		},
+		"Name": "spectral-decorations:blue_lantern"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"hanging": "true",
+			"diagonal": "true",
+			"alt": "false"
+		},
+		"Name": "spectral-decorations:blue_lantern"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"hanging": "true",
+			"diagonal": "true",
+			"alt": "false"
+		},
+		"Name": "spectral-decorations:blue_lantern"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"hanging": "false",
+			"diagonal": "true",
+			"alt": "false"
+		},
+		"Name": "spectral-decorations:blue_lantern"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"hanging": "false",
+			"diagonal": "true",
+			"alt": "false"
+		},
+		"Name": "spectral-decorations:blue_lantern"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"hanging": "true",
+			"diagonal": "false",
+			"alt": "false"
+		},
+		"Name": "spectral-decorations:blue_lantern"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"hanging": "true",
+			"diagonal": "false",
+			"alt": "false"
+		},
+		"Name": "spectral-decorations:blue_lantern"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"hanging": "false",
+			"diagonal": "false",
+			"alt": "false"
+		},
+		"Name": "spectral-decorations:blue_lantern"
+	},
+	{
+		"Name": "spectral-decorations:blue_lantern"
+	}
+]

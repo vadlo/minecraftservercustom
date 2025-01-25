@@ -1,0 +1,133 @@
+// AUTOMATIC I2JSP DATAGEN
+// FOR INTERNAL USAGE IN ELERION: STEEL 'N' BONES MODPACK
+
+function restrict(event, itemName, requiredStage, requiredValue) {
+    event.restrict(itemName, restrict => {
+      restrict.everything().if(player => player.cannot(requiredStage, requiredValue));
+    });
+  }
+
+function restrictFluid(event, fluid, requiredStage, requiredValue) {
+    event.restrict(fluid, restrict => {
+      restrict.everything().if(player => player.cannot(requiredStage, requiredValue));
+    });
+  }
+
+ItemSkillEvents.register(event => {
+    restrict(event, 'soulsweapons:altar_block', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:arkenplate', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:arkenstone', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:blackstone_pedestal', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:bloodthirster', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:bluemoon_greatsword', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:bluemoon_shortsword', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:blunderbuss', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:boss_compass', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:chaos_crown', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:chaos_helmet', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:chaos_orb', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:chaos_robes', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:chungus_disc', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:chungus_emerald', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:chungus_monolith', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:comet_spear', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:cracked_infused_blackstone', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:crucible_sword', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:darkin_blade', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:darkin_scythe', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:darkin_scythe_pre', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:darkmoon_longbow', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:dawnbreaker', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:demon_chunk', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:demon_heart', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:dragon_staff', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:dragonslayer_swordspear', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:draugr', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:draupnir_spear', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:empowered_dawnbreaker', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:enhanced_arkenplate', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:enhanced_withered_chest', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:essence_of_eventide', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:essence_of_luminescence', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:featherlight', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:forlorn_boots', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:forlorn_chestplate', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:forlorn_helmet', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:forlorn_leggings', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:forlorn_scythe', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:freyr_sword', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:frostmourne', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:galeforce', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:gatling_gun', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:guts_sword', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:holy_greatsword', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:holy_moonlight_greatsword', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:holy_moonlight_sword', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:hunter_cannon', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:hunter_pistol', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:hydrangea', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:infused_blackstone', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:iron_skull', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:kirkhammer', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:kraken_slayer', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:kraken_slayer_crossbow', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:leviathan_axe', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:lich_bane', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:lord_soul_dark', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:lord_soul_day_stalker', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:lord_soul_night_prowler', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:lord_soul_purple', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:lord_soul_red', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:lord_soul_rose', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:lord_soul_void', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:lord_soul_white', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:lost_soul', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:master_sword', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:mjolnir', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:molten_demon_heart', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:moonlight_greatsword', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:moonlight_shortsword', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:moonstone_axe', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:moonstone_block', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:moonstone_hoe', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:moonstone_pickaxe', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:moonstone_ring', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:moonstone_shovel', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:nightfall', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:nights_edge_item', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:oleander', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:pure_moonlight_greatsword', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:rageblade', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:shadow_assassin_scythe', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:shard_of_uncertainty', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:silver_bullet', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:silver_sword', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:skofnung', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:skofnung_stone', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:soul_ingot_boots', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:soul_ingot_chestplate', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:soul_ingot_helmet', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:soul_ingot_leggings', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:soul_lamp', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:soul_reaper', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:soul_robes_boots', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:soul_robes_chestplate', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:soul_robes_helmet', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:soul_robes_leggings', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:soulfire_stain', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:sting', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:translucent_double_greatsword', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:translucent_glaive', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:translucent_sword', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:whirligig_sawblade', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:withered_berry_bush', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:withered_chest', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:withered_demon_heart', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:withered_dirt', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:withered_fern', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:withered_grass', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:withered_grass_block', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:withered_large_fern', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:withered_tall_grass', 'skills:magicians', true);
+    restrict(event, 'soulsweapons:withered_wabbajack', 'skills:magicians', true);
+});

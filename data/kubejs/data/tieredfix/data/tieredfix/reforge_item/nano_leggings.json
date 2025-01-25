@@ -1,0 +1,11 @@
+{
+    "product": {
+      "id": "tech_enhanced:nano_leggings"
+    },
+    "cover": true,
+    "base": [
+      {
+        "id": "modern_industrialization:carbon_plate"
+      }
+    ]
+}

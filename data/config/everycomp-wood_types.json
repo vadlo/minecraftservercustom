@@ -100,7 +100,6 @@
       "regions_unexplored.redwood": true,
       "regions_unexplored.willow": true,
       "regions_unexplored.sculkwood": true,
-      "techreborn.rubber": true,
       "spectrum.white": true,
       "spectrum.orange": true,
       "spectrum.magenta": true,
@@ -116,7 +115,8 @@
       "spectrum.brown": true,
       "spectrum.green": true,
       "spectrum.red": true,
-      "spectrum.black": true
+      "spectrum.black": true,
+      "techreborn.rubber": true
     },
     "leaves_type": {
       "regions_unexplored.bamboo": true,
@@ -248,7 +248,6 @@
       "promenade.pink_cherry_oak": true,
       "promenade.white_cherry_oak": true,
       "promenade.palm": true,
-      "techreborn.rubber": true,
       "spectrum.white": true,
       "spectrum.orange": true,
       "spectrum.magenta": true,
@@ -265,7 +264,8 @@
       "spectrum.green": true,
       "spectrum.red": true,
       "spectrum.black": true,
-      "spectrum.spirit_sallow": true
+      "spectrum.spirit_sallow": true,
+      "techreborn.rubber": true
     }
   },
   "entries": {

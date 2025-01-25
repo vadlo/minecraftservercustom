@@ -1,0 +1,581 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "0",
+			"floor": "true"
+		},
+		"Name": "betterend:jellyshroom_sign"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "0",
+			"floor": "true"
+		},
+		"Name": "betterend:jellyshroom_sign"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "1",
+			"floor": "true"
+		},
+		"Name": "betterend:jellyshroom_sign"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "1",
+			"floor": "true"
+		},
+		"Name": "betterend:jellyshroom_sign"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "2",
+			"floor": "true"
+		},
+		"Name": "betterend:jellyshroom_sign"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "2",
+			"floor": "true"
+		},
+		"Name": "betterend:jellyshroom_sign"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "3",
+			"floor": "true"
+		},
+		"Name": "betterend:jellyshroom_sign"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "3",
+			"floor": "true"
+		},
+		"Name": "betterend:jellyshroom_sign"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "4",
+			"floor": "true"
+		},
+		"Name": "betterend:jellyshroom_sign"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "4",
+			"floor": "true"
+		},
+		"Name": "betterend:jellyshroom_sign"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "5",
+			"floor": "true"
+		},
+		"Name": "betterend:jellyshroom_sign"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "5",
+			"floor": "true"
+		},
+		"Name": "betterend:jellyshroom_sign"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "6",
+			"floor": "true"
+		},
+		"Name": "betterend:jellyshroom_sign"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "6",
+			"floor": "true"
+		},
+		"Name": "betterend:jellyshroom_sign"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "7",
+			"floor": "true"
+		},
+		"Name": "betterend:jellyshroom_sign"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "7",
+			"floor": "true"
+		},
+		"Name": "betterend:jellyshroom_sign"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "8",
+			"floor": "true"
+		},
+		"Name": "betterend:jellyshroom_sign"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "8",
+			"floor": "true"
+		},
+		"Name": "betterend:jellyshroom_sign"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "9",
+			"floor": "true"
+		},
+		"Name": "betterend:jellyshroom_sign"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "9",
+			"floor": "true"
+		},
+		"Name": "betterend:jellyshroom_sign"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "10",
+			"floor": "true"
+		},
+		"Name": "betterend:jellyshroom_sign"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "10",
+			"floor": "true"
+		},
+		"Name": "betterend:jellyshroom_sign"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "11",
+			"floor": "true"
+		},
+		"Name": "betterend:jellyshroom_sign"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "11",
+			"floor": "true"
+		},
+		"Name": "betterend:jellyshroom_sign"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "12",
+			"floor": "true"
+		},
+		"Name": "betterend:jellyshroom_sign"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "12",
+			"floor": "true"
+		},
+		"Name": "betterend:jellyshroom_sign"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "13",
+			"floor": "true"
+		},
+		"Name": "betterend:jellyshroom_sign"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "13",
+			"floor": "true"
+		},
+		"Name": "betterend:jellyshroom_sign"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "14",
+			"floor": "true"
+		},
+		"Name": "betterend:jellyshroom_sign"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "14",
+			"floor": "true"
+		},
+		"Name": "betterend:jellyshroom_sign"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "15",
+			"floor": "true"
+		},
+		"Name": "betterend:jellyshroom_sign"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "15",
+			"floor": "true"
+		},
+		"Name": "betterend:jellyshroom_sign"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "0",
+			"floor": "false"
+		},
+		"Name": "betterend:jellyshroom_sign"
+	},
+	{
+		"Name": "betterend:jellyshroom_sign"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "1",
+			"floor": "false"
+		},
+		"Name": "betterend:jellyshroom_sign"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "1",
+			"floor": "false"
+		},
+		"Name": "betterend:jellyshroom_sign"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "2",
+			"floor": "false"
+		},
+		"Name": "betterend:jellyshroom_sign"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "2",
+			"floor": "false"
+		},
+		"Name": "betterend:jellyshroom_sign"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "3",
+			"floor": "false"
+		},
+		"Name": "betterend:jellyshroom_sign"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "3",
+			"floor": "false"
+		},
+		"Name": "betterend:jellyshroom_sign"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "4",
+			"floor": "false"
+		},
+		"Name": "betterend:jellyshroom_sign"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "4",
+			"floor": "false"
+		},
+		"Name": "betterend:jellyshroom_sign"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "5",
+			"floor": "false"
+		},
+		"Name": "betterend:jellyshroom_sign"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "5",
+			"floor": "false"
+		},
+		"Name": "betterend:jellyshroom_sign"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "6",
+			"floor": "false"
+		},
+		"Name": "betterend:jellyshroom_sign"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "6",
+			"floor": "false"
+		},
+		"Name": "betterend:jellyshroom_sign"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "7",
+			"floor": "false"
+		},
+		"Name": "betterend:jellyshroom_sign"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "7",
+			"floor": "false"
+		},
+		"Name": "betterend:jellyshroom_sign"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "8",
+			"floor": "false"
+		},
+		"Name": "betterend:jellyshroom_sign"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "8",
+			"floor": "false"
+		},
+		"Name": "betterend:jellyshroom_sign"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "9",
+			"floor": "false"
+		},
+		"Name": "betterend:jellyshroom_sign"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "9",
+			"floor": "false"
+		},
+		"Name": "betterend:jellyshroom_sign"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "10",
+			"floor": "false"
+		},
+		"Name": "betterend:jellyshroom_sign"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "10",
+			"floor": "false"
+		},
+		"Name": "betterend:jellyshroom_sign"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "11",
+			"floor": "false"
+		},
+		"Name": "betterend:jellyshroom_sign"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "11",
+			"floor": "false"
+		},
+		"Name": "betterend:jellyshroom_sign"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "12",
+			"floor": "false"
+		},
+		"Name": "betterend:jellyshroom_sign"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "12",
+			"floor": "false"
+		},
+		"Name": "betterend:jellyshroom_sign"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "13",
+			"floor": "false"
+		},
+		"Name": "betterend:jellyshroom_sign"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "13",
+			"floor": "false"
+		},
+		"Name": "betterend:jellyshroom_sign"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "14",
+			"floor": "false"
+		},
+		"Name": "betterend:jellyshroom_sign"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "14",
+			"floor": "false"
+		},
+		"Name": "betterend:jellyshroom_sign"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "15",
+			"floor": "false"
+		},
+		"Name": "betterend:jellyshroom_sign"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "15",
+			"floor": "false"
+		},
+		"Name": "betterend:jellyshroom_sign"
+	}
+]

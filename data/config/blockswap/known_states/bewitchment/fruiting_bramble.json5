@@ -1,0 +1,4613 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "0",
+			"has_fruit": "true",
+			"age": "0"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "1",
+			"has_fruit": "true",
+			"age": "0"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "2",
+			"has_fruit": "true",
+			"age": "0"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "3",
+			"has_fruit": "true",
+			"age": "0"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "4",
+			"has_fruit": "true",
+			"age": "0"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "5",
+			"has_fruit": "true",
+			"age": "0"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "6",
+			"has_fruit": "true",
+			"age": "0"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "7",
+			"has_fruit": "true",
+			"age": "0"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "8",
+			"has_fruit": "true",
+			"age": "0"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "9",
+			"has_fruit": "true",
+			"age": "0"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "10",
+			"has_fruit": "true",
+			"age": "0"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "11",
+			"has_fruit": "true",
+			"age": "0"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "12",
+			"has_fruit": "true",
+			"age": "0"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "13",
+			"has_fruit": "true",
+			"age": "0"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "14",
+			"has_fruit": "true",
+			"age": "0"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "15",
+			"has_fruit": "true",
+			"age": "0"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "1",
+			"has_fruit": "false",
+			"age": "0"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "2",
+			"has_fruit": "false",
+			"age": "0"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "3",
+			"has_fruit": "false",
+			"age": "0"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "4",
+			"has_fruit": "false",
+			"age": "0"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "5",
+			"has_fruit": "false",
+			"age": "0"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "6",
+			"has_fruit": "false",
+			"age": "0"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "7",
+			"has_fruit": "false",
+			"age": "0"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "8",
+			"has_fruit": "false",
+			"age": "0"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "9",
+			"has_fruit": "false",
+			"age": "0"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "10",
+			"has_fruit": "false",
+			"age": "0"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "11",
+			"has_fruit": "false",
+			"age": "0"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "12",
+			"has_fruit": "false",
+			"age": "0"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "13",
+			"has_fruit": "false",
+			"age": "0"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "14",
+			"has_fruit": "false",
+			"age": "0"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "15",
+			"has_fruit": "false",
+			"age": "0"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "0",
+			"has_fruit": "true",
+			"age": "1"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "1",
+			"has_fruit": "true",
+			"age": "1"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "2",
+			"has_fruit": "true",
+			"age": "1"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "3",
+			"has_fruit": "true",
+			"age": "1"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "4",
+			"has_fruit": "true",
+			"age": "1"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "5",
+			"has_fruit": "true",
+			"age": "1"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "6",
+			"has_fruit": "true",
+			"age": "1"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "7",
+			"has_fruit": "true",
+			"age": "1"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "8",
+			"has_fruit": "true",
+			"age": "1"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "9",
+			"has_fruit": "true",
+			"age": "1"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "10",
+			"has_fruit": "true",
+			"age": "1"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "11",
+			"has_fruit": "true",
+			"age": "1"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "12",
+			"has_fruit": "true",
+			"age": "1"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "13",
+			"has_fruit": "true",
+			"age": "1"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "14",
+			"has_fruit": "true",
+			"age": "1"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "15",
+			"has_fruit": "true",
+			"age": "1"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "0",
+			"has_fruit": "false",
+			"age": "1"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "1",
+			"has_fruit": "false",
+			"age": "1"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "2",
+			"has_fruit": "false",
+			"age": "1"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "3",
+			"has_fruit": "false",
+			"age": "1"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "4",
+			"has_fruit": "false",
+			"age": "1"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "5",
+			"has_fruit": "false",
+			"age": "1"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "6",
+			"has_fruit": "false",
+			"age": "1"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "7",
+			"has_fruit": "false",
+			"age": "1"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "8",
+			"has_fruit": "false",
+			"age": "1"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "9",
+			"has_fruit": "false",
+			"age": "1"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "10",
+			"has_fruit": "false",
+			"age": "1"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "11",
+			"has_fruit": "false",
+			"age": "1"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "12",
+			"has_fruit": "false",
+			"age": "1"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "13",
+			"has_fruit": "false",
+			"age": "1"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "14",
+			"has_fruit": "false",
+			"age": "1"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "15",
+			"has_fruit": "false",
+			"age": "1"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "0",
+			"has_fruit": "true",
+			"age": "2"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "1",
+			"has_fruit": "true",
+			"age": "2"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "2",
+			"has_fruit": "true",
+			"age": "2"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "3",
+			"has_fruit": "true",
+			"age": "2"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "4",
+			"has_fruit": "true",
+			"age": "2"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "5",
+			"has_fruit": "true",
+			"age": "2"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "6",
+			"has_fruit": "true",
+			"age": "2"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "7",
+			"has_fruit": "true",
+			"age": "2"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "8",
+			"has_fruit": "true",
+			"age": "2"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "9",
+			"has_fruit": "true",
+			"age": "2"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "10",
+			"has_fruit": "true",
+			"age": "2"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "11",
+			"has_fruit": "true",
+			"age": "2"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "12",
+			"has_fruit": "true",
+			"age": "2"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "13",
+			"has_fruit": "true",
+			"age": "2"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "14",
+			"has_fruit": "true",
+			"age": "2"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "15",
+			"has_fruit": "true",
+			"age": "2"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "0",
+			"has_fruit": "false",
+			"age": "2"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "1",
+			"has_fruit": "false",
+			"age": "2"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "2",
+			"has_fruit": "false",
+			"age": "2"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "3",
+			"has_fruit": "false",
+			"age": "2"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "4",
+			"has_fruit": "false",
+			"age": "2"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "5",
+			"has_fruit": "false",
+			"age": "2"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "6",
+			"has_fruit": "false",
+			"age": "2"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "7",
+			"has_fruit": "false",
+			"age": "2"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "8",
+			"has_fruit": "false",
+			"age": "2"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "9",
+			"has_fruit": "false",
+			"age": "2"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "10",
+			"has_fruit": "false",
+			"age": "2"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "11",
+			"has_fruit": "false",
+			"age": "2"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "12",
+			"has_fruit": "false",
+			"age": "2"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "13",
+			"has_fruit": "false",
+			"age": "2"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "14",
+			"has_fruit": "false",
+			"age": "2"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "15",
+			"has_fruit": "false",
+			"age": "2"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "0",
+			"has_fruit": "true",
+			"age": "3"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "1",
+			"has_fruit": "true",
+			"age": "3"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "2",
+			"has_fruit": "true",
+			"age": "3"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "3",
+			"has_fruit": "true",
+			"age": "3"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "4",
+			"has_fruit": "true",
+			"age": "3"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "5",
+			"has_fruit": "true",
+			"age": "3"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "6",
+			"has_fruit": "true",
+			"age": "3"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "7",
+			"has_fruit": "true",
+			"age": "3"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "8",
+			"has_fruit": "true",
+			"age": "3"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "9",
+			"has_fruit": "true",
+			"age": "3"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "10",
+			"has_fruit": "true",
+			"age": "3"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "11",
+			"has_fruit": "true",
+			"age": "3"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "12",
+			"has_fruit": "true",
+			"age": "3"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "13",
+			"has_fruit": "true",
+			"age": "3"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "14",
+			"has_fruit": "true",
+			"age": "3"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "15",
+			"has_fruit": "true",
+			"age": "3"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "0",
+			"has_fruit": "false",
+			"age": "3"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "1",
+			"has_fruit": "false",
+			"age": "3"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "2",
+			"has_fruit": "false",
+			"age": "3"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "3",
+			"has_fruit": "false",
+			"age": "3"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "4",
+			"has_fruit": "false",
+			"age": "3"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "5",
+			"has_fruit": "false",
+			"age": "3"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "6",
+			"has_fruit": "false",
+			"age": "3"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "7",
+			"has_fruit": "false",
+			"age": "3"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "8",
+			"has_fruit": "false",
+			"age": "3"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "9",
+			"has_fruit": "false",
+			"age": "3"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "10",
+			"has_fruit": "false",
+			"age": "3"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "11",
+			"has_fruit": "false",
+			"age": "3"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "12",
+			"has_fruit": "false",
+			"age": "3"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "13",
+			"has_fruit": "false",
+			"age": "3"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "14",
+			"has_fruit": "false",
+			"age": "3"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "15",
+			"has_fruit": "false",
+			"age": "3"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "0",
+			"has_fruit": "true",
+			"age": "4"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "1",
+			"has_fruit": "true",
+			"age": "4"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "2",
+			"has_fruit": "true",
+			"age": "4"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "3",
+			"has_fruit": "true",
+			"age": "4"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "4",
+			"has_fruit": "true",
+			"age": "4"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "5",
+			"has_fruit": "true",
+			"age": "4"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "6",
+			"has_fruit": "true",
+			"age": "4"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "7",
+			"has_fruit": "true",
+			"age": "4"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "8",
+			"has_fruit": "true",
+			"age": "4"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "9",
+			"has_fruit": "true",
+			"age": "4"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "10",
+			"has_fruit": "true",
+			"age": "4"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "11",
+			"has_fruit": "true",
+			"age": "4"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "12",
+			"has_fruit": "true",
+			"age": "4"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "13",
+			"has_fruit": "true",
+			"age": "4"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "14",
+			"has_fruit": "true",
+			"age": "4"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "15",
+			"has_fruit": "true",
+			"age": "4"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "0",
+			"has_fruit": "false",
+			"age": "4"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "1",
+			"has_fruit": "false",
+			"age": "4"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "2",
+			"has_fruit": "false",
+			"age": "4"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "3",
+			"has_fruit": "false",
+			"age": "4"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "4",
+			"has_fruit": "false",
+			"age": "4"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "5",
+			"has_fruit": "false",
+			"age": "4"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "6",
+			"has_fruit": "false",
+			"age": "4"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "7",
+			"has_fruit": "false",
+			"age": "4"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "8",
+			"has_fruit": "false",
+			"age": "4"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "9",
+			"has_fruit": "false",
+			"age": "4"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "10",
+			"has_fruit": "false",
+			"age": "4"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "11",
+			"has_fruit": "false",
+			"age": "4"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "12",
+			"has_fruit": "false",
+			"age": "4"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "13",
+			"has_fruit": "false",
+			"age": "4"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "14",
+			"has_fruit": "false",
+			"age": "4"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "15",
+			"has_fruit": "false",
+			"age": "4"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "0",
+			"has_fruit": "true",
+			"age": "5"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "1",
+			"has_fruit": "true",
+			"age": "5"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "2",
+			"has_fruit": "true",
+			"age": "5"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "3",
+			"has_fruit": "true",
+			"age": "5"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "4",
+			"has_fruit": "true",
+			"age": "5"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "5",
+			"has_fruit": "true",
+			"age": "5"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "6",
+			"has_fruit": "true",
+			"age": "5"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "7",
+			"has_fruit": "true",
+			"age": "5"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "8",
+			"has_fruit": "true",
+			"age": "5"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "9",
+			"has_fruit": "true",
+			"age": "5"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "10",
+			"has_fruit": "true",
+			"age": "5"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "11",
+			"has_fruit": "true",
+			"age": "5"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "12",
+			"has_fruit": "true",
+			"age": "5"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "13",
+			"has_fruit": "true",
+			"age": "5"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "14",
+			"has_fruit": "true",
+			"age": "5"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "15",
+			"has_fruit": "true",
+			"age": "5"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "0",
+			"has_fruit": "false",
+			"age": "5"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "1",
+			"has_fruit": "false",
+			"age": "5"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "2",
+			"has_fruit": "false",
+			"age": "5"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "3",
+			"has_fruit": "false",
+			"age": "5"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "4",
+			"has_fruit": "false",
+			"age": "5"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "5",
+			"has_fruit": "false",
+			"age": "5"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "6",
+			"has_fruit": "false",
+			"age": "5"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "7",
+			"has_fruit": "false",
+			"age": "5"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "8",
+			"has_fruit": "false",
+			"age": "5"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "9",
+			"has_fruit": "false",
+			"age": "5"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "10",
+			"has_fruit": "false",
+			"age": "5"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "11",
+			"has_fruit": "false",
+			"age": "5"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "12",
+			"has_fruit": "false",
+			"age": "5"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "13",
+			"has_fruit": "false",
+			"age": "5"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "14",
+			"has_fruit": "false",
+			"age": "5"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "15",
+			"has_fruit": "false",
+			"age": "5"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "0",
+			"has_fruit": "true",
+			"age": "6"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "1",
+			"has_fruit": "true",
+			"age": "6"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "2",
+			"has_fruit": "true",
+			"age": "6"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "3",
+			"has_fruit": "true",
+			"age": "6"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "4",
+			"has_fruit": "true",
+			"age": "6"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "5",
+			"has_fruit": "true",
+			"age": "6"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "6",
+			"has_fruit": "true",
+			"age": "6"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "7",
+			"has_fruit": "true",
+			"age": "6"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "8",
+			"has_fruit": "true",
+			"age": "6"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "9",
+			"has_fruit": "true",
+			"age": "6"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "10",
+			"has_fruit": "true",
+			"age": "6"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "11",
+			"has_fruit": "true",
+			"age": "6"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "12",
+			"has_fruit": "true",
+			"age": "6"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "13",
+			"has_fruit": "true",
+			"age": "6"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "14",
+			"has_fruit": "true",
+			"age": "6"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "15",
+			"has_fruit": "true",
+			"age": "6"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "0",
+			"has_fruit": "false",
+			"age": "6"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "1",
+			"has_fruit": "false",
+			"age": "6"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "2",
+			"has_fruit": "false",
+			"age": "6"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "3",
+			"has_fruit": "false",
+			"age": "6"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "4",
+			"has_fruit": "false",
+			"age": "6"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "5",
+			"has_fruit": "false",
+			"age": "6"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "6",
+			"has_fruit": "false",
+			"age": "6"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "7",
+			"has_fruit": "false",
+			"age": "6"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "8",
+			"has_fruit": "false",
+			"age": "6"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "9",
+			"has_fruit": "false",
+			"age": "6"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "10",
+			"has_fruit": "false",
+			"age": "6"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "11",
+			"has_fruit": "false",
+			"age": "6"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "12",
+			"has_fruit": "false",
+			"age": "6"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "13",
+			"has_fruit": "false",
+			"age": "6"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "14",
+			"has_fruit": "false",
+			"age": "6"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "15",
+			"has_fruit": "false",
+			"age": "6"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "0",
+			"has_fruit": "true",
+			"age": "7"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "1",
+			"has_fruit": "true",
+			"age": "7"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "2",
+			"has_fruit": "true",
+			"age": "7"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "3",
+			"has_fruit": "true",
+			"age": "7"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "4",
+			"has_fruit": "true",
+			"age": "7"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "5",
+			"has_fruit": "true",
+			"age": "7"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "6",
+			"has_fruit": "true",
+			"age": "7"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "7",
+			"has_fruit": "true",
+			"age": "7"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "8",
+			"has_fruit": "true",
+			"age": "7"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "9",
+			"has_fruit": "true",
+			"age": "7"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "10",
+			"has_fruit": "true",
+			"age": "7"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "11",
+			"has_fruit": "true",
+			"age": "7"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "12",
+			"has_fruit": "true",
+			"age": "7"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "13",
+			"has_fruit": "true",
+			"age": "7"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "14",
+			"has_fruit": "true",
+			"age": "7"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "15",
+			"has_fruit": "true",
+			"age": "7"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "0",
+			"has_fruit": "false",
+			"age": "7"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "1",
+			"has_fruit": "false",
+			"age": "7"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "2",
+			"has_fruit": "false",
+			"age": "7"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "3",
+			"has_fruit": "false",
+			"age": "7"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "4",
+			"has_fruit": "false",
+			"age": "7"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "5",
+			"has_fruit": "false",
+			"age": "7"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "6",
+			"has_fruit": "false",
+			"age": "7"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "7",
+			"has_fruit": "false",
+			"age": "7"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "8",
+			"has_fruit": "false",
+			"age": "7"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "9",
+			"has_fruit": "false",
+			"age": "7"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "10",
+			"has_fruit": "false",
+			"age": "7"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "11",
+			"has_fruit": "false",
+			"age": "7"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "12",
+			"has_fruit": "false",
+			"age": "7"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "13",
+			"has_fruit": "false",
+			"age": "7"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "14",
+			"has_fruit": "false",
+			"age": "7"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "15",
+			"has_fruit": "false",
+			"age": "7"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "0",
+			"has_fruit": "true",
+			"age": "8"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "1",
+			"has_fruit": "true",
+			"age": "8"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "2",
+			"has_fruit": "true",
+			"age": "8"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "3",
+			"has_fruit": "true",
+			"age": "8"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "4",
+			"has_fruit": "true",
+			"age": "8"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "5",
+			"has_fruit": "true",
+			"age": "8"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "6",
+			"has_fruit": "true",
+			"age": "8"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "7",
+			"has_fruit": "true",
+			"age": "8"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "8",
+			"has_fruit": "true",
+			"age": "8"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "9",
+			"has_fruit": "true",
+			"age": "8"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "10",
+			"has_fruit": "true",
+			"age": "8"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "11",
+			"has_fruit": "true",
+			"age": "8"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "12",
+			"has_fruit": "true",
+			"age": "8"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "13",
+			"has_fruit": "true",
+			"age": "8"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "14",
+			"has_fruit": "true",
+			"age": "8"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "15",
+			"has_fruit": "true",
+			"age": "8"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "0",
+			"has_fruit": "false",
+			"age": "8"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "1",
+			"has_fruit": "false",
+			"age": "8"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "2",
+			"has_fruit": "false",
+			"age": "8"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "3",
+			"has_fruit": "false",
+			"age": "8"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "4",
+			"has_fruit": "false",
+			"age": "8"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "5",
+			"has_fruit": "false",
+			"age": "8"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "6",
+			"has_fruit": "false",
+			"age": "8"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "7",
+			"has_fruit": "false",
+			"age": "8"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "8",
+			"has_fruit": "false",
+			"age": "8"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "9",
+			"has_fruit": "false",
+			"age": "8"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "10",
+			"has_fruit": "false",
+			"age": "8"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "11",
+			"has_fruit": "false",
+			"age": "8"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "12",
+			"has_fruit": "false",
+			"age": "8"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "13",
+			"has_fruit": "false",
+			"age": "8"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "14",
+			"has_fruit": "false",
+			"age": "8"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "15",
+			"has_fruit": "false",
+			"age": "8"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "0",
+			"has_fruit": "true",
+			"age": "9"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "1",
+			"has_fruit": "true",
+			"age": "9"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "2",
+			"has_fruit": "true",
+			"age": "9"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "3",
+			"has_fruit": "true",
+			"age": "9"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "4",
+			"has_fruit": "true",
+			"age": "9"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "5",
+			"has_fruit": "true",
+			"age": "9"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "6",
+			"has_fruit": "true",
+			"age": "9"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "7",
+			"has_fruit": "true",
+			"age": "9"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "8",
+			"has_fruit": "true",
+			"age": "9"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "9",
+			"has_fruit": "true",
+			"age": "9"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "10",
+			"has_fruit": "true",
+			"age": "9"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "11",
+			"has_fruit": "true",
+			"age": "9"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "12",
+			"has_fruit": "true",
+			"age": "9"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "13",
+			"has_fruit": "true",
+			"age": "9"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "14",
+			"has_fruit": "true",
+			"age": "9"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "15",
+			"has_fruit": "true",
+			"age": "9"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "0",
+			"has_fruit": "false",
+			"age": "9"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "1",
+			"has_fruit": "false",
+			"age": "9"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "2",
+			"has_fruit": "false",
+			"age": "9"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "3",
+			"has_fruit": "false",
+			"age": "9"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "4",
+			"has_fruit": "false",
+			"age": "9"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "5",
+			"has_fruit": "false",
+			"age": "9"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "6",
+			"has_fruit": "false",
+			"age": "9"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "7",
+			"has_fruit": "false",
+			"age": "9"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "8",
+			"has_fruit": "false",
+			"age": "9"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "9",
+			"has_fruit": "false",
+			"age": "9"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "10",
+			"has_fruit": "false",
+			"age": "9"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "11",
+			"has_fruit": "false",
+			"age": "9"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "12",
+			"has_fruit": "false",
+			"age": "9"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "13",
+			"has_fruit": "false",
+			"age": "9"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "14",
+			"has_fruit": "false",
+			"age": "9"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "15",
+			"has_fruit": "false",
+			"age": "9"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "0",
+			"has_fruit": "true",
+			"age": "10"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "1",
+			"has_fruit": "true",
+			"age": "10"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "2",
+			"has_fruit": "true",
+			"age": "10"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "3",
+			"has_fruit": "true",
+			"age": "10"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "4",
+			"has_fruit": "true",
+			"age": "10"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "5",
+			"has_fruit": "true",
+			"age": "10"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "6",
+			"has_fruit": "true",
+			"age": "10"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "7",
+			"has_fruit": "true",
+			"age": "10"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "8",
+			"has_fruit": "true",
+			"age": "10"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "9",
+			"has_fruit": "true",
+			"age": "10"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "10",
+			"has_fruit": "true",
+			"age": "10"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "11",
+			"has_fruit": "true",
+			"age": "10"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "12",
+			"has_fruit": "true",
+			"age": "10"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "13",
+			"has_fruit": "true",
+			"age": "10"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "14",
+			"has_fruit": "true",
+			"age": "10"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "15",
+			"has_fruit": "true",
+			"age": "10"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "0",
+			"has_fruit": "false",
+			"age": "10"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "1",
+			"has_fruit": "false",
+			"age": "10"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "2",
+			"has_fruit": "false",
+			"age": "10"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "3",
+			"has_fruit": "false",
+			"age": "10"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "4",
+			"has_fruit": "false",
+			"age": "10"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "5",
+			"has_fruit": "false",
+			"age": "10"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "6",
+			"has_fruit": "false",
+			"age": "10"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "7",
+			"has_fruit": "false",
+			"age": "10"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "8",
+			"has_fruit": "false",
+			"age": "10"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "9",
+			"has_fruit": "false",
+			"age": "10"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "10",
+			"has_fruit": "false",
+			"age": "10"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "11",
+			"has_fruit": "false",
+			"age": "10"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "12",
+			"has_fruit": "false",
+			"age": "10"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "13",
+			"has_fruit": "false",
+			"age": "10"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "14",
+			"has_fruit": "false",
+			"age": "10"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "15",
+			"has_fruit": "false",
+			"age": "10"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "0",
+			"has_fruit": "true",
+			"age": "11"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "1",
+			"has_fruit": "true",
+			"age": "11"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "2",
+			"has_fruit": "true",
+			"age": "11"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "3",
+			"has_fruit": "true",
+			"age": "11"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "4",
+			"has_fruit": "true",
+			"age": "11"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "5",
+			"has_fruit": "true",
+			"age": "11"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "6",
+			"has_fruit": "true",
+			"age": "11"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "7",
+			"has_fruit": "true",
+			"age": "11"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "8",
+			"has_fruit": "true",
+			"age": "11"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "9",
+			"has_fruit": "true",
+			"age": "11"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "10",
+			"has_fruit": "true",
+			"age": "11"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "11",
+			"has_fruit": "true",
+			"age": "11"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "12",
+			"has_fruit": "true",
+			"age": "11"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "13",
+			"has_fruit": "true",
+			"age": "11"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "14",
+			"has_fruit": "true",
+			"age": "11"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "15",
+			"has_fruit": "true",
+			"age": "11"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "0",
+			"has_fruit": "false",
+			"age": "11"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "1",
+			"has_fruit": "false",
+			"age": "11"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "2",
+			"has_fruit": "false",
+			"age": "11"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "3",
+			"has_fruit": "false",
+			"age": "11"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "4",
+			"has_fruit": "false",
+			"age": "11"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "5",
+			"has_fruit": "false",
+			"age": "11"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "6",
+			"has_fruit": "false",
+			"age": "11"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "7",
+			"has_fruit": "false",
+			"age": "11"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "8",
+			"has_fruit": "false",
+			"age": "11"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "9",
+			"has_fruit": "false",
+			"age": "11"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "10",
+			"has_fruit": "false",
+			"age": "11"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "11",
+			"has_fruit": "false",
+			"age": "11"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "12",
+			"has_fruit": "false",
+			"age": "11"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "13",
+			"has_fruit": "false",
+			"age": "11"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "14",
+			"has_fruit": "false",
+			"age": "11"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "15",
+			"has_fruit": "false",
+			"age": "11"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "0",
+			"has_fruit": "true",
+			"age": "12"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "1",
+			"has_fruit": "true",
+			"age": "12"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "2",
+			"has_fruit": "true",
+			"age": "12"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "3",
+			"has_fruit": "true",
+			"age": "12"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "4",
+			"has_fruit": "true",
+			"age": "12"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "5",
+			"has_fruit": "true",
+			"age": "12"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "6",
+			"has_fruit": "true",
+			"age": "12"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "7",
+			"has_fruit": "true",
+			"age": "12"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "8",
+			"has_fruit": "true",
+			"age": "12"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "9",
+			"has_fruit": "true",
+			"age": "12"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "10",
+			"has_fruit": "true",
+			"age": "12"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "11",
+			"has_fruit": "true",
+			"age": "12"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "12",
+			"has_fruit": "true",
+			"age": "12"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "13",
+			"has_fruit": "true",
+			"age": "12"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "14",
+			"has_fruit": "true",
+			"age": "12"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "15",
+			"has_fruit": "true",
+			"age": "12"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "0",
+			"has_fruit": "false",
+			"age": "12"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "1",
+			"has_fruit": "false",
+			"age": "12"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "2",
+			"has_fruit": "false",
+			"age": "12"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "3",
+			"has_fruit": "false",
+			"age": "12"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "4",
+			"has_fruit": "false",
+			"age": "12"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "5",
+			"has_fruit": "false",
+			"age": "12"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "6",
+			"has_fruit": "false",
+			"age": "12"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "7",
+			"has_fruit": "false",
+			"age": "12"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "8",
+			"has_fruit": "false",
+			"age": "12"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "9",
+			"has_fruit": "false",
+			"age": "12"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "10",
+			"has_fruit": "false",
+			"age": "12"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "11",
+			"has_fruit": "false",
+			"age": "12"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "12",
+			"has_fruit": "false",
+			"age": "12"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "13",
+			"has_fruit": "false",
+			"age": "12"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "14",
+			"has_fruit": "false",
+			"age": "12"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "15",
+			"has_fruit": "false",
+			"age": "12"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "0",
+			"has_fruit": "true",
+			"age": "13"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "1",
+			"has_fruit": "true",
+			"age": "13"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "2",
+			"has_fruit": "true",
+			"age": "13"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "3",
+			"has_fruit": "true",
+			"age": "13"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "4",
+			"has_fruit": "true",
+			"age": "13"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "5",
+			"has_fruit": "true",
+			"age": "13"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "6",
+			"has_fruit": "true",
+			"age": "13"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "7",
+			"has_fruit": "true",
+			"age": "13"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "8",
+			"has_fruit": "true",
+			"age": "13"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "9",
+			"has_fruit": "true",
+			"age": "13"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "10",
+			"has_fruit": "true",
+			"age": "13"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "11",
+			"has_fruit": "true",
+			"age": "13"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "12",
+			"has_fruit": "true",
+			"age": "13"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "13",
+			"has_fruit": "true",
+			"age": "13"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "14",
+			"has_fruit": "true",
+			"age": "13"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "15",
+			"has_fruit": "true",
+			"age": "13"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "0",
+			"has_fruit": "false",
+			"age": "13"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "1",
+			"has_fruit": "false",
+			"age": "13"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "2",
+			"has_fruit": "false",
+			"age": "13"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "3",
+			"has_fruit": "false",
+			"age": "13"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "4",
+			"has_fruit": "false",
+			"age": "13"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "5",
+			"has_fruit": "false",
+			"age": "13"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "6",
+			"has_fruit": "false",
+			"age": "13"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "7",
+			"has_fruit": "false",
+			"age": "13"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "8",
+			"has_fruit": "false",
+			"age": "13"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "9",
+			"has_fruit": "false",
+			"age": "13"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "10",
+			"has_fruit": "false",
+			"age": "13"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "11",
+			"has_fruit": "false",
+			"age": "13"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "12",
+			"has_fruit": "false",
+			"age": "13"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "13",
+			"has_fruit": "false",
+			"age": "13"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "14",
+			"has_fruit": "false",
+			"age": "13"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "15",
+			"has_fruit": "false",
+			"age": "13"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "0",
+			"has_fruit": "true",
+			"age": "14"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "1",
+			"has_fruit": "true",
+			"age": "14"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "2",
+			"has_fruit": "true",
+			"age": "14"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "3",
+			"has_fruit": "true",
+			"age": "14"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "4",
+			"has_fruit": "true",
+			"age": "14"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "5",
+			"has_fruit": "true",
+			"age": "14"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "6",
+			"has_fruit": "true",
+			"age": "14"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "7",
+			"has_fruit": "true",
+			"age": "14"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "8",
+			"has_fruit": "true",
+			"age": "14"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "9",
+			"has_fruit": "true",
+			"age": "14"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "10",
+			"has_fruit": "true",
+			"age": "14"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "11",
+			"has_fruit": "true",
+			"age": "14"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "12",
+			"has_fruit": "true",
+			"age": "14"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "13",
+			"has_fruit": "true",
+			"age": "14"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "14",
+			"has_fruit": "true",
+			"age": "14"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "15",
+			"has_fruit": "true",
+			"age": "14"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "0",
+			"has_fruit": "false",
+			"age": "14"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "1",
+			"has_fruit": "false",
+			"age": "14"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "2",
+			"has_fruit": "false",
+			"age": "14"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "3",
+			"has_fruit": "false",
+			"age": "14"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "4",
+			"has_fruit": "false",
+			"age": "14"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "5",
+			"has_fruit": "false",
+			"age": "14"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "6",
+			"has_fruit": "false",
+			"age": "14"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "7",
+			"has_fruit": "false",
+			"age": "14"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "8",
+			"has_fruit": "false",
+			"age": "14"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "9",
+			"has_fruit": "false",
+			"age": "14"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "10",
+			"has_fruit": "false",
+			"age": "14"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "11",
+			"has_fruit": "false",
+			"age": "14"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "12",
+			"has_fruit": "false",
+			"age": "14"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "13",
+			"has_fruit": "false",
+			"age": "14"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "14",
+			"has_fruit": "false",
+			"age": "14"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "15",
+			"has_fruit": "false",
+			"age": "14"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "0",
+			"has_fruit": "true",
+			"age": "15"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "1",
+			"has_fruit": "true",
+			"age": "15"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "2",
+			"has_fruit": "true",
+			"age": "15"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "3",
+			"has_fruit": "true",
+			"age": "15"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "4",
+			"has_fruit": "true",
+			"age": "15"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "5",
+			"has_fruit": "true",
+			"age": "15"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "6",
+			"has_fruit": "true",
+			"age": "15"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "7",
+			"has_fruit": "true",
+			"age": "15"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "8",
+			"has_fruit": "true",
+			"age": "15"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "9",
+			"has_fruit": "true",
+			"age": "15"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "10",
+			"has_fruit": "true",
+			"age": "15"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "11",
+			"has_fruit": "true",
+			"age": "15"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "12",
+			"has_fruit": "true",
+			"age": "15"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "13",
+			"has_fruit": "true",
+			"age": "15"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "14",
+			"has_fruit": "true",
+			"age": "15"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "15",
+			"has_fruit": "true",
+			"age": "15"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "0",
+			"has_fruit": "false",
+			"age": "15"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "1",
+			"has_fruit": "false",
+			"age": "15"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "2",
+			"has_fruit": "false",
+			"age": "15"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "3",
+			"has_fruit": "false",
+			"age": "15"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "4",
+			"has_fruit": "false",
+			"age": "15"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "5",
+			"has_fruit": "false",
+			"age": "15"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "6",
+			"has_fruit": "false",
+			"age": "15"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "7",
+			"has_fruit": "false",
+			"age": "15"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "8",
+			"has_fruit": "false",
+			"age": "15"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "9",
+			"has_fruit": "false",
+			"age": "15"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "10",
+			"has_fruit": "false",
+			"age": "15"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "11",
+			"has_fruit": "false",
+			"age": "15"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "12",
+			"has_fruit": "false",
+			"age": "15"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "13",
+			"has_fruit": "false",
+			"age": "15"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "14",
+			"has_fruit": "false",
+			"age": "15"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "15",
+			"has_fruit": "false",
+			"age": "15"
+		},
+		"Name": "bewitchment:fruiting_bramble"
+	}
+]

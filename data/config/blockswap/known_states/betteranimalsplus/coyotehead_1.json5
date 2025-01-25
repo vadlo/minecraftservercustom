@@ -1,0 +1,365 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"top": "north",
+			"facing": "north"
+		},
+		"Name": "betteranimalsplus:coyotehead_1"
+	},
+	{
+		"Name": "betteranimalsplus:coyotehead_1"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"top": "east",
+			"facing": "north"
+		},
+		"Name": "betteranimalsplus:coyotehead_1"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"top": "east",
+			"facing": "north"
+		},
+		"Name": "betteranimalsplus:coyotehead_1"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"top": "south",
+			"facing": "north"
+		},
+		"Name": "betteranimalsplus:coyotehead_1"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"top": "south",
+			"facing": "north"
+		},
+		"Name": "betteranimalsplus:coyotehead_1"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"top": "west",
+			"facing": "north"
+		},
+		"Name": "betteranimalsplus:coyotehead_1"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"top": "west",
+			"facing": "north"
+		},
+		"Name": "betteranimalsplus:coyotehead_1"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"top": "north",
+			"facing": "east"
+		},
+		"Name": "betteranimalsplus:coyotehead_1"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"top": "north",
+			"facing": "east"
+		},
+		"Name": "betteranimalsplus:coyotehead_1"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"top": "east",
+			"facing": "east"
+		},
+		"Name": "betteranimalsplus:coyotehead_1"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"top": "east",
+			"facing": "east"
+		},
+		"Name": "betteranimalsplus:coyotehead_1"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"top": "south",
+			"facing": "east"
+		},
+		"Name": "betteranimalsplus:coyotehead_1"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"top": "south",
+			"facing": "east"
+		},
+		"Name": "betteranimalsplus:coyotehead_1"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"top": "west",
+			"facing": "east"
+		},
+		"Name": "betteranimalsplus:coyotehead_1"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"top": "west",
+			"facing": "east"
+		},
+		"Name": "betteranimalsplus:coyotehead_1"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"top": "north",
+			"facing": "south"
+		},
+		"Name": "betteranimalsplus:coyotehead_1"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"top": "north",
+			"facing": "south"
+		},
+		"Name": "betteranimalsplus:coyotehead_1"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"top": "east",
+			"facing": "south"
+		},
+		"Name": "betteranimalsplus:coyotehead_1"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"top": "east",
+			"facing": "south"
+		},
+		"Name": "betteranimalsplus:coyotehead_1"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"top": "south",
+			"facing": "south"
+		},
+		"Name": "betteranimalsplus:coyotehead_1"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"top": "south",
+			"facing": "south"
+		},
+		"Name": "betteranimalsplus:coyotehead_1"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"top": "west",
+			"facing": "south"
+		},
+		"Name": "betteranimalsplus:coyotehead_1"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"top": "west",
+			"facing": "south"
+		},
+		"Name": "betteranimalsplus:coyotehead_1"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"top": "north",
+			"facing": "west"
+		},
+		"Name": "betteranimalsplus:coyotehead_1"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"top": "north",
+			"facing": "west"
+		},
+		"Name": "betteranimalsplus:coyotehead_1"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"top": "east",
+			"facing": "west"
+		},
+		"Name": "betteranimalsplus:coyotehead_1"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"top": "east",
+			"facing": "west"
+		},
+		"Name": "betteranimalsplus:coyotehead_1"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"top": "south",
+			"facing": "west"
+		},
+		"Name": "betteranimalsplus:coyotehead_1"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"top": "south",
+			"facing": "west"
+		},
+		"Name": "betteranimalsplus:coyotehead_1"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"top": "west",
+			"facing": "west"
+		},
+		"Name": "betteranimalsplus:coyotehead_1"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"top": "west",
+			"facing": "west"
+		},
+		"Name": "betteranimalsplus:coyotehead_1"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"top": "north",
+			"facing": "up"
+		},
+		"Name": "betteranimalsplus:coyotehead_1"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"top": "north",
+			"facing": "up"
+		},
+		"Name": "betteranimalsplus:coyotehead_1"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"top": "east",
+			"facing": "up"
+		},
+		"Name": "betteranimalsplus:coyotehead_1"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"top": "east",
+			"facing": "up"
+		},
+		"Name": "betteranimalsplus:coyotehead_1"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"top": "south",
+			"facing": "up"
+		},
+		"Name": "betteranimalsplus:coyotehead_1"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"top": "south",
+			"facing": "up"
+		},
+		"Name": "betteranimalsplus:coyotehead_1"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"top": "west",
+			"facing": "up"
+		},
+		"Name": "betteranimalsplus:coyotehead_1"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"top": "west",
+			"facing": "up"
+		},
+		"Name": "betteranimalsplus:coyotehead_1"
+	}
+]

@@ -1,0 +1,1254 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "1",
+			"age": "0"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "2",
+			"age": "0"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "3",
+			"age": "0"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "4",
+			"age": "0"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "5",
+			"age": "0"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "0",
+			"age": "1"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "1",
+			"age": "1"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "2",
+			"age": "1"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "3",
+			"age": "1"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "4",
+			"age": "1"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "5",
+			"age": "1"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "0",
+			"age": "2"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "1",
+			"age": "2"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "2",
+			"age": "2"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "3",
+			"age": "2"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "4",
+			"age": "2"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "5",
+			"age": "2"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "0",
+			"age": "3"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "1",
+			"age": "3"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "2",
+			"age": "3"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "3",
+			"age": "3"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "4",
+			"age": "3"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "5",
+			"age": "3"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "0",
+			"age": "4"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "1",
+			"age": "4"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "2",
+			"age": "4"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "3",
+			"age": "4"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "4",
+			"age": "4"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "5",
+			"age": "4"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "0",
+			"age": "5"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "1",
+			"age": "5"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "2",
+			"age": "5"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "3",
+			"age": "5"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "4",
+			"age": "5"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "5",
+			"age": "5"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "0",
+			"age": "6"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "1",
+			"age": "6"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "2",
+			"age": "6"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "3",
+			"age": "6"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "4",
+			"age": "6"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "5",
+			"age": "6"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "0",
+			"age": "7"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "1",
+			"age": "7"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "2",
+			"age": "7"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "3",
+			"age": "7"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "4",
+			"age": "7"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "5",
+			"age": "7"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "0",
+			"age": "8"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "1",
+			"age": "8"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "2",
+			"age": "8"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "3",
+			"age": "8"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "4",
+			"age": "8"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "5",
+			"age": "8"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "0",
+			"age": "9"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "1",
+			"age": "9"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "2",
+			"age": "9"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "3",
+			"age": "9"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "4",
+			"age": "9"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "5",
+			"age": "9"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "0",
+			"age": "10"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "1",
+			"age": "10"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "2",
+			"age": "10"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "3",
+			"age": "10"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "4",
+			"age": "10"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "5",
+			"age": "10"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "0",
+			"age": "11"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "1",
+			"age": "11"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "2",
+			"age": "11"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "3",
+			"age": "11"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "4",
+			"age": "11"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "5",
+			"age": "11"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "0",
+			"age": "12"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "1",
+			"age": "12"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "2",
+			"age": "12"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "3",
+			"age": "12"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "4",
+			"age": "12"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "5",
+			"age": "12"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "0",
+			"age": "13"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "1",
+			"age": "13"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "2",
+			"age": "13"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "3",
+			"age": "13"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "4",
+			"age": "13"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "5",
+			"age": "13"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "0",
+			"age": "14"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "1",
+			"age": "14"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "2",
+			"age": "14"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "3",
+			"age": "14"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "4",
+			"age": "14"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "5",
+			"age": "14"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "0",
+			"age": "15"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "1",
+			"age": "15"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "2",
+			"age": "15"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "3",
+			"age": "15"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "4",
+			"age": "15"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "5",
+			"age": "15"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "0",
+			"age": "16"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "1",
+			"age": "16"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "2",
+			"age": "16"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "3",
+			"age": "16"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "4",
+			"age": "16"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "5",
+			"age": "16"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "0",
+			"age": "17"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "1",
+			"age": "17"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "2",
+			"age": "17"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "3",
+			"age": "17"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "4",
+			"age": "17"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "5",
+			"age": "17"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "0",
+			"age": "18"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "1",
+			"age": "18"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "2",
+			"age": "18"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "3",
+			"age": "18"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "4",
+			"age": "18"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "5",
+			"age": "18"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "0",
+			"age": "19"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "1",
+			"age": "19"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "2",
+			"age": "19"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "3",
+			"age": "19"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "4",
+			"age": "19"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "5",
+			"age": "19"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "0",
+			"age": "20"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "1",
+			"age": "20"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "2",
+			"age": "20"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "3",
+			"age": "20"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "4",
+			"age": "20"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "5",
+			"age": "20"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "0",
+			"age": "21"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "1",
+			"age": "21"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "2",
+			"age": "21"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "3",
+			"age": "21"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "4",
+			"age": "21"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "5",
+			"age": "21"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "0",
+			"age": "22"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "1",
+			"age": "22"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "2",
+			"age": "22"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "3",
+			"age": "22"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "4",
+			"age": "22"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "5",
+			"age": "22"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "0",
+			"age": "23"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "1",
+			"age": "23"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "2",
+			"age": "23"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "3",
+			"age": "23"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "4",
+			"age": "23"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "5",
+			"age": "23"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "0",
+			"age": "24"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "1",
+			"age": "24"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "2",
+			"age": "24"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "3",
+			"age": "24"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "4",
+			"age": "24"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "5",
+			"age": "24"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "0",
+			"age": "25"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "1",
+			"age": "25"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "2",
+			"age": "25"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "3",
+			"age": "25"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "4",
+			"age": "25"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "5",
+			"age": "25"
+		},
+		"Name": "enderscape:blinklight_vines_head"
+	}
+]

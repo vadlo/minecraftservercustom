@@ -1,0 +1,70 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"on": "true",
+			"facing": "north"
+		},
+		"Name": "factory_blocks:fan_malfunction_on"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"on": "false",
+			"facing": "north"
+		},
+		"Name": "factory_blocks:fan_malfunction_on"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"on": "true",
+			"facing": "south"
+		},
+		"Name": "factory_blocks:fan_malfunction_on"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"on": "false",
+			"facing": "south"
+		},
+		"Name": "factory_blocks:fan_malfunction_on"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"on": "true",
+			"facing": "west"
+		},
+		"Name": "factory_blocks:fan_malfunction_on"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"on": "false",
+			"facing": "west"
+		},
+		"Name": "factory_blocks:fan_malfunction_on"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"on": "true",
+			"facing": "east"
+		},
+		"Name": "factory_blocks:fan_malfunction_on"
+	},
+	{
+		"Name": "factory_blocks:fan_malfunction_on"
+	}
+]

@@ -1,0 +1,1733 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "0",
+			"facing": "north"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "0",
+			"facing": "north"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "1",
+			"facing": "north"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "1",
+			"facing": "north"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "2",
+			"facing": "north"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "2",
+			"facing": "north"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "3",
+			"facing": "north"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "3",
+			"facing": "north"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "4",
+			"facing": "north"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "4",
+			"facing": "north"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "5",
+			"facing": "north"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "5",
+			"facing": "north"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "6",
+			"facing": "north"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "6",
+			"facing": "north"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "7",
+			"facing": "north"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "7",
+			"facing": "north"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "8",
+			"facing": "north"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "8",
+			"facing": "north"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "9",
+			"facing": "north"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "9",
+			"facing": "north"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "10",
+			"facing": "north"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "10",
+			"facing": "north"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "11",
+			"facing": "north"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "11",
+			"facing": "north"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "12",
+			"facing": "north"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "12",
+			"facing": "north"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "13",
+			"facing": "north"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "13",
+			"facing": "north"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "14",
+			"facing": "north"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "14",
+			"facing": "north"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "15",
+			"facing": "north"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "15",
+			"facing": "north"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "0",
+			"facing": "east"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "0",
+			"facing": "east"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "1",
+			"facing": "east"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "1",
+			"facing": "east"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "2",
+			"facing": "east"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "2",
+			"facing": "east"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "3",
+			"facing": "east"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "3",
+			"facing": "east"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "4",
+			"facing": "east"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "4",
+			"facing": "east"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "5",
+			"facing": "east"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "5",
+			"facing": "east"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "6",
+			"facing": "east"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "6",
+			"facing": "east"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "7",
+			"facing": "east"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "7",
+			"facing": "east"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "8",
+			"facing": "east"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "8",
+			"facing": "east"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "9",
+			"facing": "east"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "9",
+			"facing": "east"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "10",
+			"facing": "east"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "10",
+			"facing": "east"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "11",
+			"facing": "east"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "11",
+			"facing": "east"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "12",
+			"facing": "east"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "12",
+			"facing": "east"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "13",
+			"facing": "east"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "13",
+			"facing": "east"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "14",
+			"facing": "east"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "14",
+			"facing": "east"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "15",
+			"facing": "east"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "15",
+			"facing": "east"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "0",
+			"facing": "south"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "0",
+			"facing": "south"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "1",
+			"facing": "south"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "1",
+			"facing": "south"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "2",
+			"facing": "south"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "2",
+			"facing": "south"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "3",
+			"facing": "south"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "3",
+			"facing": "south"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "4",
+			"facing": "south"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "4",
+			"facing": "south"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "5",
+			"facing": "south"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "5",
+			"facing": "south"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "6",
+			"facing": "south"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "6",
+			"facing": "south"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "7",
+			"facing": "south"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "7",
+			"facing": "south"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "8",
+			"facing": "south"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "8",
+			"facing": "south"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "9",
+			"facing": "south"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "9",
+			"facing": "south"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "10",
+			"facing": "south"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "10",
+			"facing": "south"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "11",
+			"facing": "south"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "11",
+			"facing": "south"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "12",
+			"facing": "south"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "12",
+			"facing": "south"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "13",
+			"facing": "south"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "13",
+			"facing": "south"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "14",
+			"facing": "south"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "14",
+			"facing": "south"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "15",
+			"facing": "south"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "15",
+			"facing": "south"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "0",
+			"facing": "west"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "0",
+			"facing": "west"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "1",
+			"facing": "west"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "1",
+			"facing": "west"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "2",
+			"facing": "west"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "2",
+			"facing": "west"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "3",
+			"facing": "west"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "3",
+			"facing": "west"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "4",
+			"facing": "west"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "4",
+			"facing": "west"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "5",
+			"facing": "west"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "5",
+			"facing": "west"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "6",
+			"facing": "west"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "6",
+			"facing": "west"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "7",
+			"facing": "west"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "7",
+			"facing": "west"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "8",
+			"facing": "west"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "8",
+			"facing": "west"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "9",
+			"facing": "west"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "9",
+			"facing": "west"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "10",
+			"facing": "west"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "10",
+			"facing": "west"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "11",
+			"facing": "west"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "11",
+			"facing": "west"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "12",
+			"facing": "west"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "12",
+			"facing": "west"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "13",
+			"facing": "west"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "13",
+			"facing": "west"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "14",
+			"facing": "west"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "14",
+			"facing": "west"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "15",
+			"facing": "west"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "15",
+			"facing": "west"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "0",
+			"facing": "up"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "0",
+			"facing": "up"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "1",
+			"facing": "up"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "1",
+			"facing": "up"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "2",
+			"facing": "up"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "2",
+			"facing": "up"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "3",
+			"facing": "up"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "3",
+			"facing": "up"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "4",
+			"facing": "up"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "4",
+			"facing": "up"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "5",
+			"facing": "up"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "5",
+			"facing": "up"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "6",
+			"facing": "up"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "6",
+			"facing": "up"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "7",
+			"facing": "up"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "7",
+			"facing": "up"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "8",
+			"facing": "up"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "8",
+			"facing": "up"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "9",
+			"facing": "up"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "9",
+			"facing": "up"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "10",
+			"facing": "up"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "10",
+			"facing": "up"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "11",
+			"facing": "up"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "11",
+			"facing": "up"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "12",
+			"facing": "up"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "12",
+			"facing": "up"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "13",
+			"facing": "up"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "13",
+			"facing": "up"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "14",
+			"facing": "up"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "14",
+			"facing": "up"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "15",
+			"facing": "up"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "15",
+			"facing": "up"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "0",
+			"facing": "down"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "1",
+			"facing": "down"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "1",
+			"facing": "down"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "2",
+			"facing": "down"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "2",
+			"facing": "down"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "3",
+			"facing": "down"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "3",
+			"facing": "down"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "4",
+			"facing": "down"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "4",
+			"facing": "down"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "5",
+			"facing": "down"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "5",
+			"facing": "down"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "6",
+			"facing": "down"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "6",
+			"facing": "down"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "7",
+			"facing": "down"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "7",
+			"facing": "down"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "8",
+			"facing": "down"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "8",
+			"facing": "down"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "9",
+			"facing": "down"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "9",
+			"facing": "down"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "10",
+			"facing": "down"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "10",
+			"facing": "down"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "11",
+			"facing": "down"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "11",
+			"facing": "down"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "12",
+			"facing": "down"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "12",
+			"facing": "down"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "13",
+			"facing": "down"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "13",
+			"facing": "down"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "14",
+			"facing": "down"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "14",
+			"facing": "down"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rotation": "15",
+			"facing": "down"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rotation": "15",
+			"facing": "down"
+		},
+		"Name": "catwalksinc:crank_wheel"
+	}
+]

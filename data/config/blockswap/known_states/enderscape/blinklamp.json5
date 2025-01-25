@@ -1,0 +1,119 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"luminance": "0"
+		},
+		"Name": "enderscape:blinklamp"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"luminance": "1"
+		},
+		"Name": "enderscape:blinklamp"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"luminance": "2"
+		},
+		"Name": "enderscape:blinklamp"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"luminance": "3"
+		},
+		"Name": "enderscape:blinklamp"
+	},
+	{
+		"Name": "enderscape:blinklamp"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"luminance": "5"
+		},
+		"Name": "enderscape:blinklamp"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"luminance": "6"
+		},
+		"Name": "enderscape:blinklamp"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"luminance": "7"
+		},
+		"Name": "enderscape:blinklamp"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"luminance": "8"
+		},
+		"Name": "enderscape:blinklamp"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"luminance": "9"
+		},
+		"Name": "enderscape:blinklamp"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"luminance": "10"
+		},
+		"Name": "enderscape:blinklamp"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"luminance": "11"
+		},
+		"Name": "enderscape:blinklamp"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"luminance": "12"
+		},
+		"Name": "enderscape:blinklamp"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"luminance": "13"
+		},
+		"Name": "enderscape:blinklamp"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"luminance": "14"
+		},
+		"Name": "enderscape:blinklamp"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"luminance": "15"
+		},
+		"Name": "enderscape:blinklamp"
+	}
+]

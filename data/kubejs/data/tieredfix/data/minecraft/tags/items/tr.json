@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "tech_enhanced:nano_boots",
+    "tech_enhanced:nano_chestplate",
+    "tech_enhanced:nano_helmet",
+    "tech_enhanced:nano_leggings",
+    "techreborn:quantum_helmet",
+    "techreborn:quantum_chestplate",
+    "techreborn:quantum_leggings",
+    "techreborn:quantum_boots"
+  ]
+}

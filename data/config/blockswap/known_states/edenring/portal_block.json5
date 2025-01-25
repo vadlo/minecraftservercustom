@@ -1,0 +1,84 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		"Name": "edenring:portal_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "pillar_bottom"
+		},
+		"Name": "edenring:portal_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "center_nw"
+		},
+		"Name": "edenring:portal_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "center_n"
+		},
+		"Name": "edenring:portal_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "center_ne"
+		},
+		"Name": "edenring:portal_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "center_w"
+		},
+		"Name": "edenring:portal_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "center_middle"
+		},
+		"Name": "edenring:portal_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "center_e"
+		},
+		"Name": "edenring:portal_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "center_sw"
+		},
+		"Name": "edenring:portal_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "center_s"
+		},
+		"Name": "edenring:portal_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "center_se"
+		},
+		"Name": "edenring:portal_block"
+	}
+]

@@ -1,0 +1,11 @@
+{
+    "product": {
+      "id": "techreborn:quantum_boots"
+    },
+    "cover": true,
+    "base": [
+      {
+        "id": "techreborn:tungstensteel_plate"
+      }
+    ]
+}
