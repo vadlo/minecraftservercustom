@@ -24,12 +24,12 @@ services:
     image: itzg/minecraft-server
     ports:
       # expose the Minecraft server port outside of container
-      - "25565:25565"
-      - "25577:25575"
+      - "25565:25565" // server server
+      - "25577:25575" // rcon port
     environment:
       # REQUIRED for all types
       EULA: "TRUE"
-      MEMORY: 8G
+      MEMORY: 8G      // объем выделенной памяти
       # Set server type (vs the default of vanilla)
       TYPE: "fabric"
       VERSION: "1.19.2"
