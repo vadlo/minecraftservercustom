@@ -4,9 +4,11 @@ Elerion: Blood and Steel v0.9.5.1
 Инструкция по запуску Minecraft Fabric Server с Elerion: Blood and Steel v0.9.5.1
 1. Клонирование репозитория
 Для начала клонируйте репозиторий на вашу локальную машину:
+
 (
 git clone https://github.com/vadlo/minecraftservercustom.git
 )
+
 Создайте папку для тома и перейдите в директорию проекта:
 
 mkdir minecraftservercustom  # создание папки для тома
