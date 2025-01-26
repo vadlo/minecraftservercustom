@@ -2,7 +2,9 @@ Elerion: Blood and Steel v0.9.5.1
 Инструкция по запуску Minecraft Fabric Server с Elerion: Blood and Steel v0.9.5.1
 1. Клонирование репозитория
 Для начала клонируйте репозиторий на вашу локальную машину:
+
 git clone https://github.com/vadlo/minecraftservercustom.git
+
 cd minecraftservercustom
 
 Вот пример инструкции для сборки с использованием Docker Compose, который можно разместить в вашем репозитории на GitHub. Эта инструкция будет описывать, как настроить и запустить Minecraft сервер с использованием docker-compose.yml для сборки Minecraft Fabric Elerion: Blood and Steel v0.9.5.1:
@@ -14,12 +16,15 @@ cd minecraftservercustom
 bash
 Копировать
 Редактировать
+
 git clone https://github.com/vadlo/minecraftservercustom.git
+
 cd minecraftservercustom
+
 2. Настройка Docker Compose
 Убедитесь, что на вашей машине установлен Docker и Docker Compose. Если они ещё не установлены, следуйте инструкциям по установке.
-
 В корне вашего репозитория должен быть файл docker-compose.yml. Он будет выглядеть так:
+
 version: '3.8'
 
 services:
@@ -44,6 +49,7 @@ services:
 volumes:
   # declared the named volume, but use default/local storage engine
   data: {}
+
 3. Конфигурация серверных файлов
 В директории репозитория создайте две папки:
 data — для хранения данных Minecraft сервера.
