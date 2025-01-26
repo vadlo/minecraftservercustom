@@ -5,7 +5,8 @@ Elerion: Blood and Steel v0.9.5.1
 
 git clone https://github.com/vadlo/minecraftservercustom.git
 
-cd minecraftservercustom
+mkdir minecraftservercustom // создание папки для тома
+cd minecraftservercustom    // перейдите в директорию 
 
 Вот пример инструкции для сборки с использованием Docker Compose, который можно разместить в вашем репозитории на GitHub. Эта инструкция будет описывать, как настроить и запустить Minecraft сервер с использованием docker-compose.yml для сборки Minecraft Fabric Elerion: Blood and Steel v0.9.5.1:
 
@@ -14,8 +15,9 @@ cd minecraftservercustom
 Для начала клонируйте репозиторий на вашу локальную машину:
 
 bash
-Копировать
-Редактировать
+
+//Копировать
+//Редактировать
 
 git clone https://github.com/vadlo/minecraftservercustom.git
 
