@@ -8,10 +8,10 @@ git clone https://github.com/vadlo/minecraftservercustom.git
 ```
 
 Создайте папку для тома и перейдите в директорию проекта:
-
+```
 mkdir minecraftservercustom  # создание папки для тома
 cd minecraftservercustom     # перейдите в директорию
-
+```
 2. Настройка Docker Compose
 Убедитесь, что на вашей машине установлен Docker и Docker Compose. Если они ещё не установлены, следуйте инструкциям по установке.
 
